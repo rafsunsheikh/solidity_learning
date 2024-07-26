@@ -4,13 +4,17 @@ I'll document my Solodity Learning journey in this repo!!
 
 ## Tutorials and Learning Materials
 
-### Official Documentation
+### Solidity Official Documentation
 - [Solidity Documentation](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)
 
 
 ### Beginner Tutorials
 - [FreeCodeCamp Beginner handbook](https://www.freecodecamp.org/news/learn-solidity-handbook/)
 - [What is Web3 ?](https://chain.link/education/web3)
+
+### Ethereum 
+- [Ethereum Website] (https://ethereum.org/en/)
+- [Eth.build] (https://eth.build/)
 
 
 
