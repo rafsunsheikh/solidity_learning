@@ -11,10 +11,23 @@ I'll document my Solodity Learning journey in this repo!!
 ### Beginner Tutorials
 - [FreeCodeCamp Beginner handbook](https://www.freecodecamp.org/news/learn-solidity-handbook/)
 - [What is Web3 ?](https://chain.link/education/web3)
+- [Solidity by Example](https://solidity-by-example.org/)
 
 ### Ethereum 
 - [Ethereum Website](https://ethereum.org/en/)
 - [Eth.build](https://eth.build/)
+- [Learning Tools](https://ethereum.org/en/developers/learning-tools/)
+
+### Frontend
+- [Flutter]
+- [react.js]
+
+### Backend
+- [Truffle]
+    - [Learn truffle by developing a dApp (youtube)](https://www.youtube.com/watch?v=b_k8yDC3hdM)
+- [Ganache]
+
+### Web3 Package
 
 
 
