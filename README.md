@@ -12,29 +12,7 @@ I'll document my Solodity Learning journey in this repo!!
 - [FreeCodeCamp Beginner handbook](https://www.freecodecamp.org/news/learn-solidity-handbook/)
 - [What is Web3 ?](https://chain.link/education/web3)
 
-### Intermediate Tutorials
-- [Intermediate Features](https://example.com/tutorials/intermediate-features)
-- [Advanced Configuration](https://example.com/tutorials/advanced-configuration)
 
-### Advanced Tutorials
-- [Performance Optimization](https://example.com/tutorials/performance-optimization)
-- [Custom Modules and Plugins](https://example.com/tutorials/custom-modules)
-
-### Videos
-- [Introduction to Project](https://www.youtube.com/watch?v=example)
-- [Deep Dive into Features](https://www.youtube.com/watch?v=example)
-
-### Books and Articles
-- [Project Book Title](https://example.com/book)
-- [In-depth Article on Project](https://example.com/article)
-
-### Community Resources
-- [Official Forum](https://forum.example.com)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/project-tag)
-
-### Additional Resources
-- [Cheat Sheet](https://example.com/cheat-sheet)
-- [Code Examples](https://example.com/code-examples)
 
 
 
