@@ -13,8 +13,8 @@ I'll document my Solodity Learning journey in this repo!!
 - [What is Web3 ?](https://chain.link/education/web3)
 
 ### Ethereum 
-- [Ethereum Website] (https://ethereum.org/en/)
-- [Eth.build] (https://eth.build/)
+- [Ethereum Website](https://ethereum.org/en/)
+- [Eth.build](https://eth.build/)
 
 
 
