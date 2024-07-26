@@ -1,6 +1,6 @@
 # Solidity Learning
 
-I'll document my Solodity Learning journey in this repo!!
+I'll document my Solidity Learning journey in this repo!!
 
 ## Tutorials and Learning Materials
 
@@ -21,11 +21,13 @@ I'll document my Solodity Learning journey in this repo!!
 ### Frontend
 - [Flutter]
 - [react.js]
+    - [React Tutorial for Beginner (Youtube)](https://www.youtube.com/watch?v=SqcY0GlETPk)
 
 ### Backend
 - [Truffle]
     - [Learn truffle by developing a dApp (youtube)](https://www.youtube.com/watch?v=b_k8yDC3hdM)
 - [Ganache]
+- [Hardhat](https://hardhat.org/)
 
 ### Web3 Package
 
