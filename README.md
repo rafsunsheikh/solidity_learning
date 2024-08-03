@@ -22,12 +22,17 @@ I'll document my Solidity Learning journey in this repo!!
 - [Flutter]
 - [react.js]
     - [React Tutorial for Beginner (Youtube)](https://www.youtube.com/watch?v=SqcY0GlETPk)
+    - [create-react-app documentation](https://create-react-app.dev/docs/getting-started/)
+    - [react.dev](https://react.dev/learn)
+    - [Net ninja Video Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 ### Backend
 - [Truffle]
     - [Learn truffle by developing a dApp (youtube)](https://www.youtube.com/watch?v=b_k8yDC3hdM)
 - [Ganache]
 - [Hardhat](https://hardhat.org/)
+    - [hardhat-boilerplate Project](https://github.com/NomicFoundation/hardhat-boilerplate/tree/master)
+    - [Alchemy Hardhat tutorials](https://docs.alchemy.com/docs/hello-world-smart-contract)
 
 ### Web3 Package
 
