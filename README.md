@@ -25,6 +25,7 @@ I'll document my Solidity Learning journey in this repo!!
     - [create-react-app documentation](https://create-react-app.dev/docs/getting-started/)
     - [react.dev](https://react.dev/learn)
     - [Net ninja Video Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+    - [tic-tac-toe tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 
 ### Backend
 - [Truffle]
