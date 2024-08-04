@@ -34,7 +34,8 @@ I'll document my Solidity Learning journey in this repo!!
 - [Hardhat](https://hardhat.org/)
     - [hardhat-boilerplate Project](https://github.com/NomicFoundation/hardhat-boilerplate/tree/master)
     - [Alchemy Hardhat tutorials](https://docs.alchemy.com/docs/hello-world-smart-contract)
-
+- Node JS
+    - [Free Code Camp](https://www.freecodecamp.org/news/get-started-with-nodejs/)
 ### Web3 Package
 
 
