@@ -26,6 +26,8 @@ I'll document my Solidity Learning journey in this repo!!
     - [react.dev](https://react.dev/learn)
     - [Net ninja Video Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
     - [tic-tac-toe tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+- [Ethers.js] 
+    - [Dapp Unviersity Tutorial](https://www.youtube.com/watch?v=yk7nVp5HTCk)
 
 ### Backend
 - [Truffle]
