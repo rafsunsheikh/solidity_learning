@@ -26,6 +26,7 @@ I'll document my Solidity Learning journey in this repo!!
     - [react.dev](https://react.dev/learn)
     - [Net ninja Video Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
     - [tic-tac-toe tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+
 - [Ethers.js] 
     - [Dapp Unviersity Tutorial](https://www.youtube.com/watch?v=yk7nVp5HTCk)
 
@@ -36,7 +37,8 @@ I'll document my Solidity Learning journey in this repo!!
 - [Hardhat](https://hardhat.org/)
     - [hardhat-boilerplate Project](https://github.com/NomicFoundation/hardhat-boilerplate/tree/master)
     - [Alchemy Hardhat tutorials](https://docs.alchemy.com/docs/hello-world-smart-contract)
-    - [dappuniversity Real Estate Project](https://github.com/dappuniversity/millow/tree/master/src)
+    - [dappuniversity Real Estate Project](https://github.com/dappuniversity/millow)
+    - [dappuniversity E-commerce Project](https://github.com/dappuniversity/dappazon)
 - Node JS
     - [Free Code Camp](https://www.freecodecamp.org/news/get-started-with-nodejs/)
 ### Web3 Package
