@@ -1,0 +1,1569 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 27.996000000000002 1188.2865873015874 4647.336" style="max-height: 500px" width="1188.2865873015874" height="4647.336">
+<g style="transform: translate(4px, 99%) scale(0.98);" transform="translate(168.33210035581396,2647.7957283919272) scale(0.536147969562705)" class="graph" id="graph0">
+<title>G</title>
+<polygon points="-4,4 -4,-4662 1174.93,-4662 1174.93,4 -4,4" stroke="transparent" fill="#ffffff"/>
+<g class="cluster" id="clust1">
+<title>clusterArrayOps</title>
+<polygon points="435.3965,-3084 435.3965,-3215 606.4611,-3215 606.4611,-3084 435.3965,-3084" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3198.4" x="520.9288" text-anchor="middle">ArrayOps  (lib)</text>
+</g>
+<g class="cluster" id="clust2">
+<title>clusterCommon</title>
+<polygon points="411.7756,-3223 411.7756,-3516 873.7113,-3516 873.7113,-3223 411.7756,-3223" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3499.4" x="642.7435" text-anchor="middle">Common</text>
+</g>
+<g class="cluster" id="clust3">
+<title>clusterAddressUpgradeable</title>
+<polygon points="453.6153,-93 453.6153,-314 1150.0766,-314 1150.0766,-93 453.6153,-93" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-297.4" x="801.846" text-anchor="middle">AddressUpgradeable  (lib)</text>
+</g>
+<g class="cluster" id="clust4">
+<title>clusterInitializable</title>
+<polygon points="733.208,-322 733.208,-561 1115.2035,-561 1115.2035,-322 733.208,-322" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-544.4" x="924.2058" text-anchor="middle">Initializable</text>
+</g>
+<g class="cluster" id="clust5">
+<title>clusterReentrancyGuardUpgradeable</title>
+<polygon points="69.9758,-3567 69.9758,-3698 679.9456,-3698 679.9456,-3567 69.9758,-3567" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3681.4" x="374.9607" text-anchor="middle">ReentrancyGuardUpgradeable</text>
+</g>
+<g class="cluster" id="clust6">
+<title>clusterContextUpgradeable</title>
+<polygon points="62.9822,-3706 62.9822,-3945 305.9737,-3945 305.9737,-3706 62.9822,-3706" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3928.4" x="184.478" text-anchor="middle">ContextUpgradeable</text>
+</g>
+<g class="cluster" id="clust7">
+<title>clusterOwnableUpgradeable</title>
+<polygon points="439.6707,-1672 439.6707,-1911 1162.93,-1911 1162.93,-1672 439.6707,-1672" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1894.4" x="801.3004" text-anchor="middle">OwnableUpgradeable</text>
+</g>
+<g class="cluster" id="clust8">
+<title>clusterPausableUpgradeable</title>
+<polygon points="439.1396,-1371 439.1396,-1664 1113.0616,-1664 1113.0616,-1371 439.1396,-1371" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1647.4" x="776.1006" text-anchor="middle">PausableUpgradeable</text>
+</g>
+<g class="cluster" id="clust9">
+<title>clusterIERC20Upgradeable</title>
+<polygon points="96.0322,-3953 96.0322,-4300 272.9237,-4300 272.9237,-3953 96.0322,-3953" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4283.4" x="184.478" text-anchor="middle">IERC20Upgradeable  (iface)</text>
+</g>
+<g class="cluster" id="clust10">
+<title>clusterIERC20MetadataUpgradeable</title>
+<polygon points="70.1178,-4308 70.1178,-4493 298.8382,-4493 298.8382,-4308 70.1178,-4308" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4476.4" x="184.478" text-anchor="middle">IERC20MetadataUpgradeable  (iface)</text>
+</g>
+<g class="cluster" id="clust11">
+<title>clusterERC20Upgradeable</title>
+<polygon points="109.6398,-668 109.6398,-1163 931.6163,-1163 931.6163,-668 109.6398,-668" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1146.4" x="520.628" text-anchor="middle">ERC20Upgradeable</text>
+</g>
+<g class="cluster" id="clust12">
+<title>clusterERC20PausableUpgradeable</title>
+<polygon points="367.2513,-1178 367.2513,-1363 674.6063,-1363 674.6063,-1178 367.2513,-1178" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1346.4" x="520.9288" text-anchor="middle">ERC20PausableUpgradeable</text>
+</g>
+<g class="cluster" id="clust13">
+<title>clusterStableCoin</title>
+<polygon points="27.0439,-1919 27.0439,-3076 672.4634,-3076 672.4634,-1919 27.0439,-1919" stroke="#d3d3d3" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3059.4" x="349.7537" text-anchor="middle">StableCoin</text>
+</g>
+<g class="cluster" id="clust14">
+<title>clustertarget</title>
+<polygon points="1013.8533,-8 1013.8533,-85 1120.5679,-85 1120.5679,-8 1013.8533,-8" stroke="#d3d3d3" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-68.4" x="1067.2106" text-anchor="middle">target</text>
+</g>
+<g class="cluster" id="clust15">
+<title>cluster_01</title>
+<polygon points="111.478,-4501 111.478,-4650 555.9288,-4650 555.9288,-4501 111.478,-4501" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4633.4" x="333.7034" text-anchor="middle">Legend</text>
+</g>
+
+<g class="node" id="node1">
+<title>ArrayOps.deleteFromArray</title>
+<ellipse ry="18" rx="77.5646" cy="-3110" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3105.8" x="520.9288" text-anchor="middle">deleteFromArray</text>
+</g>
+
+<g class="node" id="node2">
+<title>ArrayOps.isElement</title>
+<ellipse ry="18" rx="49.8136" cy="-3164" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3159.8" x="520.9288" text-anchor="middle">isElement</text>
+</g>
+
+<g class="node" id="node3">
+<title>Common.onlySignatory</title>
+<ellipse ry="18" rx="65.5141" cy="-3465" cx="520.9288" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3460.8" x="520.9288" text-anchor="middle">onlySignatory</text>
+</g>
+
+<g class="node" id="node4">
+<title>Common._setRequestTypeCount</title>
+<ellipse ry="18" rx="101.3066" cy="-3411" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3406.8" x="520.9288" text-anchor="middle">_setRequestTypeCount</text>
+</g>
+
+<g class="node" id="node5">
+<title>Common._isCancellable</title>
+<ellipse ry="18" rx="67.7721" cy="-3357" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3352.8" x="520.9288" text-anchor="middle">_isCancellable</text>
+</g>
+
+<g class="node" id="node8">
+<title>Common.address</title>
+<ellipse ry="18" rx="39.9857" cy="-3249" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3244.8" x="825.7184" text-anchor="middle">address</text>
+</g>
+
+<g class="edge" id="edge1">
+<title>Common._isCancellable-&gt;Common.address</title>
+<path d="M585.2419,-3351.1081C614.6925,-3347.144 649.6939,-3340.6224 679.9456,-3330 722.0964,-3315.1995 766.3936,-3288.814 794.9367,-3270.1857" stroke="#00ff00" fill="none"/>
+<polygon points="797.2197,-3272.872 803.6277,-3264.4347 793.3568,-3267.0344 797.2197,-3272.872" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node6">
+<title>Common._isApprovable</title>
+<ellipse ry="18" rx="67.7799" cy="-3303" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3298.8" x="520.9288" text-anchor="middle">_isApprovable</text>
+</g>
+
+<g class="edge" id="edge2">
+<title>Common._isApprovable-&gt;Common.address</title>
+<path d="M578.7475,-3293.3965C608.9263,-3288.3298 646.4466,-3281.946 679.9456,-3276 712.8983,-3270.151 749.9844,-3263.2779 778.5032,-3257.9301" stroke="#00ff00" fill="none"/>
+<polygon points="779.4171,-3261.3197 788.599,-3256.0335 778.1247,-3254.44 779.4171,-3261.3197" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node7">
+<title>Common._isExecutable</title>
+<ellipse ry="18" rx="65.4072" cy="-3249" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3244.8" x="520.9288" text-anchor="middle">_isExecutable</text>
+</g>
+
+<g class="edge" id="edge3">
+<title>Common._isExecutable-&gt;Common.address</title>
+<path d="M586.3138,-3249C642.9342,-3249 723.653,-3249 775.3673,-3249" stroke="#00ff00" fill="none"/>
+<polygon points="775.6253,-3252.5001 785.6253,-3249 775.6253,-3245.5001 775.6253,-3252.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node9">
+<title>AddressUpgradeable.isContract</title>
+<ellipse ry="18" rx="50.958" cy="-191" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-186.8" x="1067.2106" text-anchor="middle">isContract</text>
+</g>
+
+<g class="node" id="node10">
+<title>AddressUpgradeable.sendValue</title>
+<ellipse ry="18" rx="51.5862" cy="-263" cx="825.7184" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-258.8" x="825.7184" text-anchor="middle">sendValue</text>
+</g>
+
+<g class="node" id="node15">
+<title>AddressUpgradeable.address</title>
+<ellipse ry="18" rx="39.9857" cy="-254" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-249.8" x="1067.2106" text-anchor="middle">address</text>
+</g>
+
+<g class="edge" id="edge4">
+<title>AddressUpgradeable.sendValue-&gt;AddressUpgradeable.address</title>
+<path d="M877.2284,-261.0803C918.6034,-259.5383 976.3599,-257.3859 1017.3039,-255.8599" stroke="#00ff00" fill="none"/>
+<polygon points="1017.4683,-259.3563 1027.331,-255.4862 1017.2075,-252.3612 1017.4683,-259.3563" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node11">
+<title>AddressUpgradeable.functionCall</title>
+<ellipse ry="18" rx="59.1276" cy="-191" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-186.8" x="520.9288" text-anchor="middle">functionCall</text>
+</g>
+
+<g class="edge" id="edge5">
+<title>AddressUpgradeable.functionCall-&gt;AddressUpgradeable.functionCall</title>
+<path d="M475.6322,-202.7994C450.6112,-214.3306 465.7101,-227 520.9288,-227 567.5196,-227 585.5486,-217.9805 575.0156,-208.2353" stroke="#00ff00" fill="none"/>
+<polygon points="576.5714,-205.0823 566.2255,-202.7994 572.8896,-211.0359 576.5714,-205.0823" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node12">
+<title>AddressUpgradeable.functionCallWithValue</title>
+<ellipse ry="18" rx="101.8632" cy="-191" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-186.8" x="825.7184" text-anchor="middle">functionCallWithValue</text>
+</g>
+
+<g class="edge" id="edge6">
+<title>AddressUpgradeable.functionCall-&gt;AddressUpgradeable.functionCallWithValue</title>
+<path d="M580.4189,-191C618.268,-191 668.4806,-191 713.6138,-191" stroke="#00ff00" fill="none"/>
+<polygon points="713.7595,-194.5001 723.7594,-191 713.7594,-187.5001 713.7595,-194.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge9">
+<title>AddressUpgradeable.functionCallWithValue-&gt;AddressUpgradeable.isContract</title>
+<path d="M927.4329,-191C954.1571,-191 982.1571,-191 1006.0179,-191" stroke="#00ff00" fill="none"/>
+<polygon points="1006.3214,-194.5001 1016.3214,-191 1006.3213,-187.5001 1006.3214,-194.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge7">
+<title>AddressUpgradeable.functionCallWithValue-&gt;AddressUpgradeable.functionCallWithValue</title>
+<path d="M783.5309,-207.6641C774.1559,-217.625 788.2184,-227 825.7184,-227 849.7419,-227 864.1465,-223.1525 868.9325,-217.7682" stroke="#00ff00" fill="none"/>
+<polygon points="872.3988,-217.2591 867.9059,-207.6641 865.4347,-217.9666 872.3988,-217.2591" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node14">
+<title>AddressUpgradeable.verifyCallResult</title>
+<ellipse ry="18" rx="74.7323" cy="-128" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-123.8" x="1067.2106" text-anchor="middle">verifyCallResult</text>
+</g>
+
+<g class="edge" id="edge10">
+<title>AddressUpgradeable.functionCallWithValue-&gt;AddressUpgradeable.verifyCallResult</title>
+<path d="M890.0621,-176.9565C907.4527,-172.9682 926.2339,-168.4849 943.4912,-164 965.6396,-158.2439 989.8428,-151.3395 1010.9219,-145.1237" stroke="#00ff00" fill="none"/>
+<polygon points="1012.0889,-148.4284 1020.6811,-142.2296 1010.0987,-141.7173 1012.0889,-148.4284" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge8">
+<title>AddressUpgradeable.functionCallWithValue-&gt;AddressUpgradeable.address</title>
+<path d="M882.9487,-205.9301C925.6754,-217.0766 983.2354,-232.0927 1022.584,-242.3579" stroke="#00ff00" fill="none"/>
+<polygon points="1021.8642,-245.7872 1032.4239,-244.9249 1023.6313,-239.0139 1021.8642,-245.7872" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node13">
+<title>AddressUpgradeable.functionStaticCall</title>
+<ellipse ry="18" rx="81.1129" cy="-119" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-114.8" x="825.7184" text-anchor="middle">functionStaticCall</text>
+</g>
+
+<g class="edge" id="edge12">
+<title>AddressUpgradeable.functionStaticCall-&gt;AddressUpgradeable.isContract</title>
+<path d="M874.2975,-133.4837C916.2487,-145.9913 976.5576,-163.9721 1018.5365,-176.488" stroke="#00ff00" fill="none"/>
+<polygon points="1017.6772,-179.884 1028.2604,-179.3871 1019.6773,-173.1758 1017.6772,-179.884" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge11">
+<title>AddressUpgradeable.functionStaticCall-&gt;AddressUpgradeable.functionStaticCall</title>
+<path d="M784.6845,-134.5414C773.1342,-144.9087 786.8122,-155 825.7184,-155 851.8586,-155 866.6103,-150.4446 869.9735,-144.3108" stroke="#00ff00" fill="none"/>
+<polygon points="873.2078,-142.9425 866.7524,-134.5414 866.5598,-145.1345 873.2078,-142.9425" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge14">
+<title>AddressUpgradeable.functionStaticCall-&gt;AddressUpgradeable.verifyCallResult</title>
+<path d="M906.1318,-121.9969C930.7327,-122.9137 957.8571,-123.9246 982.7208,-124.8512" stroke="#00ff00" fill="none"/>
+<polygon points="982.7331,-128.354 992.8566,-125.229 982.9939,-121.3589 982.7331,-128.354" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node108">
+<title>target.staticcall</title>
+<ellipse ry="18" rx="45.215" cy="-34" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-29.8" x="1067.2106" text-anchor="middle">staticcall</text>
+</g>
+
+<g class="edge" id="edge13">
+<title>AddressUpgradeable.functionStaticCall-&gt;target.staticcall</title>
+<path d="M869.1713,-103.7055C912.8528,-88.3306 979.8167,-64.7608 1023.5661,-49.3619" stroke="#ffa500" fill="none"/>
+<polygon points="1024.8033,-52.637 1033.074,-46.0154 1022.4792,-46.0341 1024.8033,-52.637" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="node" id="node16">
+<title>Initializable.initializer</title>
+<ellipse ry="18" rx="48.0839" cy="-348" cx="825.7184" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-343.8" x="825.7184" text-anchor="middle">initializer</text>
+</g>
+
+<g class="edge" id="edge15">
+<title>Initializable.initializer-&gt;AddressUpgradeable.isContract</title>
+<path d="M873.4421,-345.8434C896.9678,-342.4927 924.3268,-334.8681 943.4912,-318 976.1401,-289.2632 948.9325,-257.9502 979.4912,-227 989.1686,-217.1987 1001.8907,-209.9586 1014.6336,-204.6525" stroke="#ffa500" fill="none"/>
+<polygon points="1016.2309,-207.7896 1024.332,-200.9616 1013.741,-201.2474 1016.2309,-207.7896" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="node" id="node20">
+<title>Initializable.address</title>
+<ellipse ry="18" rx="39.9857" cy="-510" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-505.8" x="1067.2106" text-anchor="middle">address</text>
+</g>
+
+<g class="edge" id="edge16">
+<title>Initializable.initializer-&gt;Initializable.address</title>
+<path d="M873.753,-348.3715C897.3608,-350.9725 924.6994,-357.9375 943.4912,-375 980.9504,-409.0119 943.3024,-447.6395 979.4912,-483 989.946,-493.2155 1004.1718,-499.5768 1018.1235,-503.5343" stroke="#00ff00" fill="none"/>
+<polygon points="1017.6293,-507.0171 1028.1763,-506.0119 1019.3044,-500.2205 1017.6293,-507.0171" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node17">
+<title>Initializable.reinitializer</title>
+<ellipse ry="18" rx="55.5869" cy="-456" cx="825.7184" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-451.8" x="825.7184" text-anchor="middle">reinitializer</text>
+</g>
+
+<g class="node" id="node18">
+<title>Initializable.onlyInitializing</title>
+<ellipse ry="18" rx="70.6626" cy="-402" cx="825.7184" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-397.8" x="825.7184" text-anchor="middle">onlyInitializing</text>
+</g>
+
+<g class="node" id="node19">
+<title>Initializable._disableInitializers</title>
+<ellipse ry="18" rx="84.5208" cy="-510" cx="825.7184" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-505.8" x="825.7184" text-anchor="middle">_disableInitializers</text>
+</g>
+
+<g class="node" id="node21">
+<title>Initializable.type</title>
+<ellipse ry="18" rx="27.8286" cy="-456" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-451.8" x="1067.2106" text-anchor="middle">type</text>
+</g>
+
+<g class="edge" id="edge17">
+<title>Initializable._disableInitializers-&gt;Initializable.type</title>
+<path d="M857.7867,-493.3092C902.2784,-478.2536 982.5702,-460.1073 1029.7585,-454.2777" stroke="#00ff00" fill="none"/>
+<polygon points="1030.3066,-457.7387 1039.8672,-453.173 1029.5461,-450.7801 1030.3066,-457.7387" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge18">
+<title>Initializable._disableInitializers-&gt;Initializable.type</title>
+<path d="M884.177,-496.9281C929.9228,-486.6989 992.0943,-472.7967 1030.9229,-464.1143" stroke="#00ff00" fill="none"/>
+<polygon points="1031.7494,-467.516 1040.7446,-461.9181 1030.2218,-460.6847 1031.7494,-467.516" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge19">
+<title>Initializable._disableInitializers-&gt;Initializable.type</title>
+<path d="M906.8036,-504.6993C951.6858,-496.2306 1004.7923,-483.1697 1037.231,-471.9772" stroke="#00ff00" fill="none"/>
+<polygon points="1038.803,-475.1295 1047.0001,-468.4171 1036.4062,-468.5526 1038.803,-475.1295" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node22">
+<title>ReentrancyGuardUpgradeable.__ReentrancyGuard_init</title>
+<ellipse ry="18" rx="106.5043" cy="-3647" cx="184.478" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3642.8" x="184.478" text-anchor="middle">__ReentrancyGuard_init</text>
+</g>
+
+<g class="node" id="node23">
+<title>ReentrancyGuardUpgradeable.__ReentrancyGuard_init_unchained</title>
+<ellipse ry="18" rx="151.0336" cy="-3647" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3642.8" x="520.9288" text-anchor="middle">__ReentrancyGuard_init_unchained</text>
+</g>
+
+<g class="edge" id="edge20">
+<title>ReentrancyGuardUpgradeable.__ReentrancyGuard_init-&gt;ReentrancyGuardUpgradeable.__ReentrancyGuard_init_unchained</title>
+<path d="M291.3954,-3647C313.1014,-3647 336.3849,-3647 359.4971,-3647" stroke="#00ff00" fill="none"/>
+<polygon points="359.7408,-3650.5001 369.7408,-3647 359.7408,-3643.5001 359.7408,-3650.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node24">
+<title>ReentrancyGuardUpgradeable.nonReentrant</title>
+<ellipse ry="18" rx="63.1228" cy="-3593" cx="184.478" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3588.8" x="184.478" text-anchor="middle">nonReentrant</text>
+</g>
+
+<g class="node" id="node25">
+<title>ContextUpgradeable.__Context_init</title>
+<ellipse ry="18" rx="68.9622" cy="-3894" cx="184.478" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3889.8" x="184.478" text-anchor="middle">__Context_init</text>
+</g>
+
+<g class="node" id="node26">
+<title>ContextUpgradeable.__Context_init_unchained</title>
+<ellipse ry="18" rx="113.4914" cy="-3840" cx="184.478" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3835.8" x="184.478" text-anchor="middle">__Context_init_unchained</text>
+</g>
+
+<g class="node" id="node27">
+<title>ContextUpgradeable._msgSender</title>
+<ellipse ry="18" rx="58.5502" cy="-3786" cx="184.478" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3781.8" x="184.478" text-anchor="middle">_msgSender</text>
+</g>
+
+<g class="node" id="node28">
+<title>ContextUpgradeable._msgData</title>
+<ellipse ry="18" rx="50.38" cy="-3732" cx="184.478" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3727.8" x="184.478" text-anchor="middle">_msgData</text>
+</g>
+
+<g class="node" id="node29">
+<title>OwnableUpgradeable.__Ownable_init</title>
+<ellipse ry="18" rx="73.0171" cy="-1806" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1801.8" x="520.9288" text-anchor="middle">__Ownable_init</text>
+</g>
+
+<g class="node" id="node30">
+<title>OwnableUpgradeable.__Ownable_init_unchained</title>
+<ellipse ry="18" rx="117.546" cy="-1806" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1801.8" x="825.7184" text-anchor="middle">__Ownable_init_unchained</text>
+</g>
+
+<g class="edge" id="edge21">
+<title>OwnableUpgradeable.__Ownable_init-&gt;OwnableUpgradeable.__Ownable_init_unchained</title>
+<path d="M594.3214,-1806C625.2633,-1806 662.211,-1806 697.4015,-1806" stroke="#00ff00" fill="none"/>
+<polygon points="697.7638,-1809.5001 707.7638,-1806 697.7638,-1802.5001 697.7638,-1809.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node36">
+<title>OwnableUpgradeable._transferOwnership</title>
+<ellipse ry="18" rx="87.9394" cy="-1752" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1747.8" x="1067.2106" text-anchor="middle">_transferOwnership</text>
+</g>
+
+<g class="edge" id="edge22">
+<title>OwnableUpgradeable.__Ownable_init_unchained-&gt;OwnableUpgradeable._transferOwnership</title>
+<path d="M892.3465,-1791.1013C925.1156,-1783.7738 964.5896,-1774.9471 997.7341,-1767.5356" stroke="#00ff00" fill="none"/>
+<polygon points="998.8075,-1770.8821 1007.8027,-1765.2842 997.2799,-1764.0508 998.8075,-1770.8821" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node37">
+<title>OwnableUpgradeable._msgSender</title>
+<ellipse ry="18" rx="58.5502" cy="-1806" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1801.8" x="1067.2106" text-anchor="middle">_msgSender</text>
+</g>
+
+<g class="edge" id="edge23">
+<title>OwnableUpgradeable.__Ownable_init_unchained-&gt;OwnableUpgradeable._msgSender</title>
+<path d="M943.6348,-1806C962.2751,-1806 981.0055,-1806 998.0475,-1806" stroke="#00ff00" fill="none"/>
+<polygon points="998.4245,-1809.5001 1008.4245,-1806 998.4245,-1802.5001 998.4245,-1809.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node31">
+<title>OwnableUpgradeable.onlyOwner</title>
+<ellipse ry="18" rx="54.4566" cy="-1860" cx="520.9288" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1855.8" x="520.9288" text-anchor="middle">onlyOwner</text>
+</g>
+
+<g class="node" id="node33">
+<title>OwnableUpgradeable._checkOwner</title>
+<ellipse ry="18" rx="64.8099" cy="-1860" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1855.8" x="825.7184" text-anchor="middle">_checkOwner</text>
+</g>
+
+<g class="edge" id="edge24">
+<title>OwnableUpgradeable.onlyOwner-&gt;OwnableUpgradeable._checkOwner</title>
+<path d="M575.4191,-1860C624.2401,-1860 696.3084,-1860 750.5916,-1860" stroke="#00ff00" fill="none"/>
+<polygon points="750.8546,-1863.5001 760.8546,-1860 750.8545,-1856.5001 750.8546,-1863.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node32">
+<title>OwnableUpgradeable.owner</title>
+<ellipse ry="18" rx="35.3334" cy="-1860" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1855.8" x="1067.2106" text-anchor="middle">owner</text>
+</g>
+
+<g class="edge" id="edge25">
+<title>OwnableUpgradeable._checkOwner-&gt;OwnableUpgradeable.owner</title>
+<path d="M890.4339,-1860C931.9384,-1860 984.7917,-1860 1021.8518,-1860" stroke="#00ff00" fill="none"/>
+<polygon points="1021.8633,-1863.5001 1031.8633,-1860 1021.8632,-1856.5001 1021.8633,-1863.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge26">
+<title>OwnableUpgradeable._checkOwner-&gt;OwnableUpgradeable._msgSender</title>
+<path d="M876.3431,-1848.6798C915.2312,-1839.9841 968.9694,-1827.9677 1009.5196,-1818.9003" stroke="#00ff00" fill="none"/>
+<polygon points="1010.5325,-1822.2603 1019.5277,-1816.6624 1009.0049,-1815.429 1010.5325,-1822.2603" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node34">
+<title>OwnableUpgradeable.renounceOwnership</title>
+<ellipse ry="18" rx="88.5889" cy="-1752" cx="825.7184" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1747.8" x="825.7184" text-anchor="middle">renounceOwnership</text>
+</g>
+
+<g class="edge" id="edge28">
+<title>OwnableUpgradeable.renounceOwnership-&gt;Initializable.address</title>
+<path d="M910.1026,-1746.2088C922.8089,-1741.7898 934.6102,-1735.0682 943.4912,-1725 996.3833,-1665.0374 971.4204,-1446.5484 979.4912,-1367 1012.5499,-1041.1624 1053.2359,-645.7023 1064.3119,-538.1403" stroke="#00ff00" fill="none"/>
+<polygon points="1067.8039,-538.3973 1065.3468,-528.0913 1060.8407,-537.6801 1067.8039,-538.3973" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge27">
+<title>OwnableUpgradeable.renounceOwnership-&gt;OwnableUpgradeable._transferOwnership</title>
+<path d="M914.6124,-1752C932.3452,-1752 951.0652,-1752 969.0877,-1752" stroke="#00ff00" fill="none"/>
+<polygon points="969.3106,-1755.5001 979.3105,-1752 969.3105,-1748.5001 969.3106,-1755.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node35">
+<title>OwnableUpgradeable.transferOwnership</title>
+<ellipse ry="18" rx="82.782" cy="-1698" cx="825.7184" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1693.8" x="825.7184" text-anchor="middle">transferOwnership</text>
+</g>
+
+<g class="edge" id="edge29">
+<title>OwnableUpgradeable.transferOwnership-&gt;Initializable.address</title>
+<path d="M904.156,-1691.9648C919.1137,-1687.2863 933.2675,-1679.801 943.4912,-1668 948.2932,-1662.4571 1046.1181,-714.7687 1064.3118,-538.1593" stroke="#00ff00" fill="none"/>
+<polygon points="1067.8053,-538.4019 1065.3483,-528.0959 1060.8421,-537.6847 1067.8053,-538.4019" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge30">
+<title>OwnableUpgradeable.transferOwnership-&gt;OwnableUpgradeable._transferOwnership</title>
+<path d="M883.5618,-1710.9343C917.8718,-1718.6064 961.5827,-1728.3806 997.7522,-1736.4684" stroke="#00ff00" fill="none"/>
+<polygon points="997.217,-1739.9351 1007.7398,-1738.7018 998.7446,-1733.1038 997.217,-1739.9351" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node38">
+<title>PausableUpgradeable.__Pausable_init</title>
+<ellipse ry="18" rx="72.9528" cy="-1397" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1392.8" x="520.9288" text-anchor="middle">__Pausable_init</text>
+</g>
+
+<g class="node" id="node39">
+<title>PausableUpgradeable.__Pausable_init_unchained</title>
+<ellipse ry="18" rx="117.4819" cy="-1397" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1392.8" x="825.7184" text-anchor="middle">__Pausable_init_unchained</text>
+</g>
+
+<g class="edge" id="edge31">
+<title>PausableUpgradeable.__Pausable_init-&gt;PausableUpgradeable.__Pausable_init_unchained</title>
+<path d="M593.9335,-1397C625.1098,-1397 662.4362,-1397 697.933,-1397" stroke="#00ff00" fill="none"/>
+<polygon points="698.3838,-1400.5001 708.3837,-1397 698.3837,-1393.5001 698.3838,-1400.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node40">
+<title>PausableUpgradeable.whenNotPaused</title>
+<ellipse ry="18" rx="73.5791" cy="-1613" cx="520.9288" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1608.8" x="520.9288" text-anchor="middle">whenNotPaused</text>
+</g>
+
+<g class="node" id="node43">
+<title>PausableUpgradeable._requireNotPaused</title>
+<ellipse ry="18" rx="85.0928" cy="-1613" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1608.8" x="825.7184" text-anchor="middle">_requireNotPaused</text>
+</g>
+
+<g class="edge" id="edge32">
+<title>PausableUpgradeable.whenNotPaused-&gt;PausableUpgradeable._requireNotPaused</title>
+<path d="M595.099,-1613C635.8041,-1613 686.7246,-1613 730.3564,-1613" stroke="#00ff00" fill="none"/>
+<polygon points="730.4115,-1616.5001 740.4115,-1613 730.4114,-1609.5001 730.4115,-1616.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node41">
+<title>PausableUpgradeable.whenPaused</title>
+<ellipse ry="18" rx="59.1122" cy="-1559" cx="520.9288" stroke="#ffff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1554.8" x="520.9288" text-anchor="middle">whenPaused</text>
+</g>
+
+<g class="node" id="node44">
+<title>PausableUpgradeable._requirePaused</title>
+<ellipse ry="18" rx="70.6258" cy="-1559" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1554.8" x="825.7184" text-anchor="middle">_requirePaused</text>
+</g>
+
+<g class="edge" id="edge33">
+<title>PausableUpgradeable.whenPaused-&gt;PausableUpgradeable._requirePaused</title>
+<path d="M580.4189,-1559C627.3563,-1559 693.3078,-1559 745.0061,-1559" stroke="#00ff00" fill="none"/>
+<polygon points="745.1459,-1562.5001 755.1459,-1559 745.1458,-1555.5001 745.1459,-1562.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node42">
+<title>PausableUpgradeable.paused</title>
+<ellipse ry="18" rx="37.7025" cy="-1559" cx="1067.2106" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1554.8" x="1067.2106" text-anchor="middle">paused</text>
+</g>
+
+<g class="edge" id="edge34">
+<title>PausableUpgradeable._requireNotPaused-&gt;PausableUpgradeable.paused</title>
+<path d="M884.4853,-1599.8592C927.163,-1590.316 984.0135,-1577.6037 1022.9008,-1568.9081" stroke="#00ff00" fill="none"/>
+<polygon points="1023.8774,-1572.2762 1032.8726,-1566.6783 1022.3499,-1565.4449 1023.8774,-1572.2762" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge35">
+<title>PausableUpgradeable._requirePaused-&gt;PausableUpgradeable.paused</title>
+<path d="M896.5423,-1559C935.894,-1559 983.8317,-1559 1018.871,-1559" stroke="#00ff00" fill="none"/>
+<polygon points="1019.3074,-1562.5001 1029.3074,-1559 1019.3073,-1555.5001 1019.3074,-1562.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node45">
+<title>PausableUpgradeable._pause</title>
+<ellipse ry="18" rx="37.7025" cy="-1505" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1500.8" x="520.9288" text-anchor="middle">_pause</text>
+</g>
+
+<g class="node" id="node47">
+<title>PausableUpgradeable._msgSender</title>
+<ellipse ry="18" rx="58.5502" cy="-1478" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1473.8" x="825.7184" text-anchor="middle">_msgSender</text>
+</g>
+
+<g class="edge" id="edge36">
+<title>PausableUpgradeable._pause-&gt;PausableUpgradeable._msgSender</title>
+<path d="M558.302,-1501.6893C608.2185,-1497.2674 697.4966,-1489.3586 759.0774,-1483.9034" stroke="#00ff00" fill="none"/>
+<polygon points="759.4409,-1487.385 769.093,-1483.0162 758.8231,-1480.4123 759.4409,-1487.385" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node46">
+<title>PausableUpgradeable._unpause</title>
+<ellipse ry="18" rx="47.5158" cy="-1451" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1446.8" x="520.9288" text-anchor="middle">_unpause</text>
+</g>
+
+<g class="edge" id="edge37">
+<title>PausableUpgradeable._unpause-&gt;PausableUpgradeable._msgSender</title>
+<path d="M567.2198,-1455.1007C618.2769,-1459.6236 700.8782,-1466.9409 758.9377,-1472.0842" stroke="#00ff00" fill="none"/>
+<polygon points="758.8482,-1475.5899 769.1181,-1472.986 759.4659,-1468.6172 758.8482,-1475.5899" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node48">
+<title>IERC20Upgradeable.totalSupply</title>
+<ellipse ry="18" rx="55.6372" cy="-4249" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4244.8" x="184.478" text-anchor="middle">totalSupply</text>
+</g>
+
+<g class="node" id="node49">
+<title>IERC20Upgradeable.balanceOf</title>
+<ellipse ry="18" rx="50.9211" cy="-4195" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4190.8" x="184.478" text-anchor="middle">balanceOf</text>
+</g>
+
+<g class="node" id="node50">
+<title>IERC20Upgradeable.transfer</title>
+<ellipse ry="18" rx="40.5441" cy="-4141" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4136.8" x="184.478" text-anchor="middle">transfer</text>
+</g>
+
+<g class="node" id="node51">
+<title>IERC20Upgradeable.allowance</title>
+<ellipse ry="18" rx="50.3586" cy="-4087" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4082.8" x="184.478" text-anchor="middle">allowance</text>
+</g>
+
+<g class="node" id="node52">
+<title>IERC20Upgradeable.approve</title>
+<ellipse ry="18" rx="42.2777" cy="-4033" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4028.8" x="184.478" text-anchor="middle">approve</text>
+</g>
+
+<g class="node" id="node53">
+<title>IERC20Upgradeable.transferFrom</title>
+<ellipse ry="18" rx="61.3916" cy="-3979" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3974.8" x="184.478" text-anchor="middle">transferFrom</text>
+</g>
+
+<g class="node" id="node54">
+<title>IERC20MetadataUpgradeable.name</title>
+<ellipse ry="18" rx="31.9012" cy="-4442" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4437.8" x="184.478" text-anchor="middle">name</text>
+</g>
+
+<g class="node" id="node55">
+<title>IERC20MetadataUpgradeable.symbol</title>
+<ellipse ry="18" rx="39.4466" cy="-4388" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4383.8" x="184.478" text-anchor="middle">symbol</text>
+</g>
+
+<g class="node" id="node56">
+<title>IERC20MetadataUpgradeable.decimals</title>
+<ellipse ry="18" rx="45.2208" cy="-4334" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4329.8" x="184.478" text-anchor="middle">decimals</text>
+</g>
+
+<g class="node" id="node57">
+<title>ERC20Upgradeable.__ERC20_init</title>
+<ellipse ry="18" rx="66.6768" cy="-1112" cx="184.478" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1107.8" x="184.478" text-anchor="middle">__ERC20_init</text>
+</g>
+
+<g class="node" id="node58">
+<title>ERC20Upgradeable.__ERC20_init_unchained</title>
+<ellipse ry="18" rx="111.2059" cy="-1112" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1107.8" x="520.9288" text-anchor="middle">__ERC20_init_unchained</text>
+</g>
+
+<g class="edge" id="edge38">
+<title>ERC20Upgradeable.__ERC20_init-&gt;ERC20Upgradeable.__ERC20_init_unchained</title>
+<path d="M251.3521,-1112C293.5743,-1112 349.3766,-1112 399.2532,-1112" stroke="#00ff00" fill="none"/>
+<polygon points="399.471,-1115.5001 409.471,-1112 399.471,-1108.5001 399.471,-1115.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node59">
+<title>ERC20Upgradeable.name</title>
+<ellipse ry="18" rx="31.9012" cy="-1058" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1053.8" x="184.478" text-anchor="middle">name</text>
+</g>
+
+<g class="node" id="node60">
+<title>ERC20Upgradeable.symbol</title>
+<ellipse ry="18" rx="39.4466" cy="-1004" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-999.8" x="184.478" text-anchor="middle">symbol</text>
+</g>
+
+<g class="node" id="node61">
+<title>ERC20Upgradeable.decimals</title>
+<ellipse ry="18" rx="45.2208" cy="-950" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-945.8" x="184.478" text-anchor="middle">decimals</text>
+</g>
+
+<g class="node" id="node62">
+<title>ERC20Upgradeable.totalSupply</title>
+<ellipse ry="18" rx="55.6372" cy="-896" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-891.8" x="184.478" text-anchor="middle">totalSupply</text>
+</g>
+
+<g class="node" id="node63">
+<title>ERC20Upgradeable.balanceOf</title>
+<ellipse ry="18" rx="50.9211" cy="-842" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-837.8" x="184.478" text-anchor="middle">balanceOf</text>
+</g>
+
+<g class="node" id="node64">
+<title>ERC20Upgradeable.transfer</title>
+<ellipse ry="18" rx="40.5441" cy="-788" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-783.8" x="184.478" text-anchor="middle">transfer</text>
+</g>
+
+<g class="node" id="node70">
+<title>ERC20Upgradeable._transfer</title>
+<ellipse ry="18" rx="45.2015" cy="-694" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-689.8" x="520.9288" text-anchor="middle">_transfer</text>
+</g>
+
+<g class="edge" id="edge40">
+<title>ERC20Upgradeable.transfer-&gt;ERC20Upgradeable._transfer</title>
+<path d="M225.115,-788.0582C256.7237,-786.4286 300.6507,-780.3706 333.912,-761 353.9109,-749.3531 347.2243,-732.5985 367.2513,-721 396.8414,-703.863 434.615,-697.0615 465.3072,-694.5694" stroke="#00ff00" fill="none"/>
+<polygon points="465.6832,-698.052 475.4224,-693.8808 465.2077,-691.0682 465.6832,-698.052" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node77">
+<title>ERC20Upgradeable._msgSender</title>
+<ellipse ry="18" rx="58.5502" cy="-1094" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1089.8" x="825.7184" text-anchor="middle">_msgSender</text>
+</g>
+
+<g class="edge" id="edge39">
+<title>ERC20Upgradeable.transfer-&gt;ERC20Upgradeable._msgSender</title>
+<path d="M223.7033,-783.461C257.7751,-781.8852 305.926,-785.7692 333.912,-815 409.9092,-894.3775 287.2037,-984.7091 367.2513,-1060 370.7714,-1063.3109 631.5814,-1081.0859 758.2065,-1089.5343" stroke="#00ff00" fill="none"/>
+<polygon points="757.9803,-1093.0269 768.191,-1090.1996 758.4459,-1086.0424 757.9803,-1093.0269" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node65">
+<title>ERC20Upgradeable.allowance</title>
+<ellipse ry="18" rx="50.3586" cy="-1040" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1035.8" x="825.7184" text-anchor="middle">allowance</text>
+</g>
+
+<g class="node" id="node66">
+<title>ERC20Upgradeable.approve</title>
+<ellipse ry="18" rx="42.2777" cy="-964" cx="520.9288" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-959.8" x="520.9288" text-anchor="middle">approve</text>
+</g>
+
+<g class="node" id="node73">
+<title>ERC20Upgradeable._approve</title>
+<ellipse ry="18" rx="46.9342" cy="-986" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-981.8" x="825.7184" text-anchor="middle">_approve</text>
+</g>
+
+<g class="edge" id="edge42">
+<title>ERC20Upgradeable.approve-&gt;ERC20Upgradeable._approve</title>
+<path d="M562.6694,-967.0129C616.3031,-970.8842 709.6097,-977.6192 769.4667,-981.9397" stroke="#00ff00" fill="none"/>
+<polygon points="769.279,-985.4352 779.5051,-982.6643 769.783,-978.4533 769.279,-985.4352" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge41">
+<title>ERC20Upgradeable.approve-&gt;ERC20Upgradeable._msgSender</title>
+<path d="M562.4721,-960.276C597.6086,-959.4177 647.3079,-963.898 679.9456,-991 707.6396,-1013.9967 680.9203,-1043.2211 707.9456,-1067 721.6323,-1079.0425 739.5991,-1086.0204 757.3626,-1089.9843" stroke="#00ff00" fill="none"/>
+<polygon points="756.6983,-1093.4206 767.1819,-1091.8895 758.0316,-1086.5488 756.6983,-1093.4206" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node67">
+<title>ERC20Upgradeable.transferFrom</title>
+<ellipse ry="18" rx="61.3916" cy="-734" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-729.8" x="184.478" text-anchor="middle">transferFrom</text>
+</g>
+
+<g class="edge" id="edge45">
+<title>ERC20Upgradeable.transferFrom-&gt;ERC20Upgradeable._transfer</title>
+<path d="M241.5523,-727.2145C304.5573,-719.724 405.2132,-707.7572 466.9511,-700.4173" stroke="#00ff00" fill="none"/>
+<polygon points="467.7436,-703.8478 477.2604,-699.1917 466.9171,-696.8968 467.7436,-703.8478" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node74">
+<title>ERC20Upgradeable._spendAllowance</title>
+<ellipse ry="18" rx="80.4403" cy="-856" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-851.8" x="520.9288" text-anchor="middle">_spendAllowance</text>
+</g>
+
+<g class="edge" id="edge44">
+<title>ERC20Upgradeable.transferFrom-&gt;ERC20Upgradeable._spendAllowance</title>
+<path d="M245.9222,-732.7052C275.1132,-734.9893 308.9824,-742.1719 333.912,-761 360.7715,-781.2856 340.3429,-808.7794 367.2513,-829 385.4553,-842.6796 408.2741,-850.2866 430.7141,-854.3342" stroke="#00ff00" fill="none"/>
+<polygon points="430.2109,-857.798 440.6353,-855.9054 431.3058,-850.8842 430.2109,-857.798" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge43">
+<title>ERC20Upgradeable.transferFrom-&gt;ERC20Upgradeable._msgSender</title>
+<path d="M243.7181,-729.1011C274.8957,-729.9321 311.2517,-736.8918 333.912,-761 420.9537,-853.6032 274.3429,-958.2842 367.2513,-1045 392.68,-1068.7338 645.5343,-1054.9239 679.9456,-1060 692.6358,-1061.8719 695.4713,-1064.0111 707.9456,-1067 727.5756,-1071.7034 749.0884,-1076.6857 768.2951,-1081.0728" stroke="#00ff00" fill="none"/>
+<polygon points="767.5789,-1084.4992 778.1065,-1083.308 769.1338,-1077.6741 767.5789,-1084.4992" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node68">
+<title>ERC20Upgradeable.increaseAllowance</title>
+<ellipse ry="18" rx="84.486" cy="-910" cx="520.9288" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-905.8" x="520.9288" text-anchor="middle">increaseAllowance</text>
+</g>
+
+<g class="edge" id="edge48">
+<title>ERC20Upgradeable.increaseAllowance-&gt;ERC20Upgradeable.allowance</title>
+<path d="M605.3958,-908.3318C631.7322,-911.7362 659.2643,-919.8265 679.9456,-937 707.6396,-959.9967 680.9203,-989.2211 707.9456,-1013 723.7086,-1026.8694 745.1487,-1034.0209 765.4171,-1037.5874" stroke="#00ff00" fill="none"/>
+<polygon points="765.1492,-1041.0862 775.5568,-1039.1032 766.1842,-1034.1631 765.1492,-1041.0862" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge47">
+<title>ERC20Upgradeable.increaseAllowance-&gt;ERC20Upgradeable._approve</title>
+<path d="M601.2367,-915.7567C627.1586,-919.659 655.496,-926.167 679.9456,-937 694.4152,-943.4111 693.6653,-952.178 707.9456,-959 727.4575,-968.3212 750.3519,-974.5135 770.7409,-978.5854" stroke="#00ff00" fill="none"/>
+<polygon points="770.3591,-982.0747 780.8321,-980.4726 771.6459,-975.1939 770.3591,-982.0747" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge46">
+<title>ERC20Upgradeable.increaseAllowance-&gt;ERC20Upgradeable._msgSender</title>
+<path d="M603.9842,-906.3363C631.3119,-909.3682 659.8159,-917.7362 679.9456,-937 722.6459,-977.8635 666.4308,-1024.9328 707.9456,-1067 720.9375,-1080.1647 738.9509,-1087.4639 756.9857,-1091.3763" stroke="#00ff00" fill="none"/>
+<polygon points="756.5067,-1094.8469 766.9755,-1093.2172 757.7754,-1087.9628 756.5067,-1094.8469" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node69">
+<title>ERC20Upgradeable.decreaseAllowance</title>
+<ellipse ry="18" rx="86.1923" cy="-1018" cx="520.9288" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1013.8" x="520.9288" text-anchor="middle">decreaseAllowance</text>
+</g>
+
+<g class="edge" id="edge50">
+<title>ERC20Upgradeable.decreaseAllowance-&gt;ERC20Upgradeable.allowance</title>
+<path d="M602.6068,-1023.8956C654.0822,-1027.6111 719.3888,-1032.325 766.0209,-1035.691" stroke="#00ff00" fill="none"/>
+<polygon points="766.0407,-1039.2014 776.2668,-1036.4305 766.5448,-1032.2196 766.0407,-1039.2014" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge51">
+<title>ERC20Upgradeable.decreaseAllowance-&gt;ERC20Upgradeable._approve</title>
+<path d="M598.2341,-1009.8837C651.7977,-1004.26 721.8609,-996.904 770.001,-991.8498" stroke="#00ff00" fill="none"/>
+<polygon points="770.6487,-995.3011 780.2286,-990.776 769.9178,-988.3394 770.6487,-995.3011" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge49">
+<title>ERC20Upgradeable.decreaseAllowance-&gt;ERC20Upgradeable._msgSender</title>
+<path d="M594.8799,-1027.3983C622.2074,-1032.2843 653.0566,-1039.5051 679.9456,-1050 693.5078,-1055.2933 694.4556,-1061.5256 707.9456,-1067 725.4121,-1074.0881 745.1275,-1079.5269 763.3609,-1083.6008" stroke="#00ff00" fill="none"/>
+<polygon points="762.804,-1087.0607 773.3144,-1085.7255 764.2654,-1080.215 762.804,-1087.0607" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge52">
+<title>ERC20Upgradeable._transfer-&gt;Initializable.address</title>
+<path d="M551.0774,-680.5445C641.9603,-645.5555 913.6454,-553.8351 1021.933,-521.3177" stroke="#00ff00" fill="none"/>
+<polygon points="1022.9979,-524.6526 1031.5865,-518.4489 1021.0038,-517.9426 1022.9979,-524.6526" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge53">
+<title>ERC20Upgradeable._transfer-&gt;Initializable.address</title>
+<path d="M559.7781,-684.5999C660.6256,-654.7334 929.8207,-564.0476 1029.4475,-526.36" stroke="#00ff00" fill="none"/>
+<polygon points="1030.7328,-529.6158 1038.8236,-522.7756 1028.2331,-523.0773 1030.7328,-529.6158" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node75">
+<title>ERC20Upgradeable._beforeTokenTransfer</title>
+<ellipse ry="18" rx="97.7958" cy="-896" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-891.8" x="825.7184" text-anchor="middle">_beforeTokenTransfer</text>
+</g>
+
+<g class="edge" id="edge54">
+<title>ERC20Upgradeable._transfer-&gt;ERC20Upgradeable._beforeTokenTransfer</title>
+<path d="M564.7216,-688.9216C600.5256,-687.3664 649.9671,-691.5795 679.9456,-721 727.7253,-767.8902 661.5258,-820.7634 707.9456,-869 713.9048,-875.1924 720.9729,-880.0943 728.6424,-883.9602" stroke="#00ff00" fill="none"/>
+<polygon points="727.3294,-887.2063 737.8916,-888.0377 730.1532,-880.8011 727.3294,-887.2063" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node76">
+<title>ERC20Upgradeable._afterTokenTransfer</title>
+<ellipse ry="18" rx="90.8492" cy="-842" cx="825.7184" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-837.8" x="825.7184" text-anchor="middle">_afterTokenTransfer</text>
+</g>
+
+<g class="edge" id="edge55">
+<title>ERC20Upgradeable._transfer-&gt;ERC20Upgradeable._afterTokenTransfer</title>
+<path d="M566.2956,-695.4485C599.1534,-697.9595 643.9378,-704.4644 679.9456,-721 729.9427,-743.9597 776.8397,-788.5757 803.3417,-816.7445" stroke="#00ff00" fill="none"/>
+<polygon points="800.9005,-819.2596 810.2615,-824.2217 806.0381,-814.505 800.9005,-819.2596" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node71">
+<title>ERC20Upgradeable._mint</title>
+<ellipse ry="18" rx="33.646" cy="-748" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-743.8" x="520.9288" text-anchor="middle">_mint</text>
+</g>
+
+<g class="edge" id="edge56">
+<title>ERC20Upgradeable._mint-&gt;Initializable.address</title>
+<path d="M534.7613,-731.5928C562.6392,-716.7396 627.3975,-708.8433 679.9456,-694 801.4422,-659.6808 835.4049,-653.2423 943.4912,-588 973.3493,-569.9773 1003.2617,-544.8311 1026.1935,-526.719" stroke="#00ff00" fill="none"/>
+<polygon points="1028.5774,-529.2985 1034.3132,-520.3905 1024.2742,-523.7773 1028.5774,-529.2985" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge58">
+<title>ERC20Upgradeable._mint-&gt;Initializable.address</title>
+<path d="M549.4847,-738.4742C581.6306,-732.2373 635.2124,-724.6359 679.9456,-712 801.4422,-677.6808 835.4049,-671.2423 943.4912,-606 978.8118,-584.68 1014.2083,-553.3918 1038.0355,-532.2016" stroke="#00ff00" fill="none"/>
+<polygon points="1040.5045,-534.6898 1045.6557,-525.4315 1035.8553,-529.4568 1040.5045,-534.6898" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge59">
+<title>ERC20Upgradeable._mint-&gt;Initializable.address</title>
+<path d="M553.9703,-751.348C586.4542,-749.5402 637.2334,-742.065 679.9456,-730 801.4422,-695.6808 835.4049,-689.2423 943.4912,-624 984.6238,-599.1718 1025.8594,-560.8248 1048.8061,-535.3289" stroke="#00ff00" fill="none"/>
+<polygon points="1051.6641,-537.3765 1055.5904,-527.5361 1046.3845,-532.7802 1051.6641,-537.3765" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge61">
+<title>ERC20Upgradeable._mint-&gt;Initializable.address</title>
+<path d="M539.8224,-763.0925C569.9064,-769.8266 630.3618,-762.006 679.9456,-748 801.4422,-713.6808 835.4049,-707.2423 943.4912,-642 989.7877,-614.0549 1036.2146,-568.9835 1056.5473,-536.7982" stroke="#00ff00" fill="none"/>
+<polygon points="1059.6069,-538.4986 1061.5684,-528.0869 1053.5422,-535.003 1059.6069,-538.4986" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge57">
+<title>ERC20Upgradeable._mint-&gt;ERC20Upgradeable._beforeTokenTransfer</title>
+<path d="M553.8104,-744.1984C589.2945,-742.0074 645.3543,-744.3697 679.9456,-775 712.5816,-803.8988 676.149,-839.1802 707.9456,-869 714.3936,-875.0471 721.91,-879.835 729.9685,-883.6143" stroke="#00ff00" fill="none"/>
+<polygon points="728.6907,-886.8733 739.2689,-887.4662 731.3692,-880.4061 728.6907,-886.8733" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge60">
+<title>ERC20Upgradeable._mint-&gt;ERC20Upgradeable._afterTokenTransfer</title>
+<path d="M554.1029,-751.0675C586.6862,-754.675 637.538,-761.9047 679.9456,-775 717.2875,-786.531 757.4876,-805.5496 786.1946,-820.3837" stroke="#00ff00" fill="none"/>
+<polygon points="784.6098,-823.5046 795.093,-825.0382 787.8542,-817.3019 784.6098,-823.5046" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node72">
+<title>ERC20Upgradeable._burn</title>
+<ellipse ry="18" rx="33.6305" cy="-802" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-797.8" x="520.9288" text-anchor="middle">_burn</text>
+</g>
+
+<g class="edge" id="edge62">
+<title>ERC20Upgradeable._burn-&gt;Initializable.address</title>
+<path d="M546.6073,-790.2922C617.1818,-776.7434 817.2186,-770.5553 943.4912,-678 994.7651,-640.4172 1029.9859,-574.5816 1049.369,-536.3257" stroke="#00ff00" fill="none"/>
+<polygon points="1052.5792,-537.7328 1053.9559,-527.2278 1046.3287,-534.5815 1052.5792,-537.7328" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge64">
+<title>ERC20Upgradeable._burn-&gt;Initializable.address</title>
+<path d="M553.8802,-798.2482C630.0873,-794.2508 821.3164,-785.5517 943.4912,-696 1000.251,-654.3962 1037.3387,-578.1704 1055.0469,-537.2599" stroke="#00ff00" fill="none"/>
+<polygon points="1058.3349,-538.4717 1059.0321,-527.8999 1051.8944,-535.7295 1058.3349,-538.4717" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge65">
+<title>ERC20Upgradeable._burn-&gt;Initializable.address</title>
+<path d="M553.033,-807.4496C628.661,-812.3145 820.8611,-803.8855 943.4912,-714 1005.2909,-668.702 1043.77,-582.3605 1059.3059,-537.7572" stroke="#00ff00" fill="none"/>
+<polygon points="1062.6721,-538.7268 1062.5189,-528.133 1056.0323,-536.51 1062.6721,-538.7268" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge67">
+<title>ERC20Upgradeable._burn-&gt;Initializable.address</title>
+<path d="M544.6075,-814.8772C613.3281,-830.8544 816.0045,-825.4453 943.4912,-732 1009.4549,-683.6499 1048.8495,-588.539 1062.1339,-538.228" stroke="#00ff00" fill="none"/>
+<polygon points="1065.6092,-538.7491 1064.5725,-528.2051 1058.8076,-537.0942 1065.6092,-538.7491" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge63">
+<title>ERC20Upgradeable._burn-&gt;ERC20Upgradeable._beforeTokenTransfer</title>
+<path d="M554.6316,-800.4363C588.7749,-800.4302 641.8476,-804.8947 679.9456,-829 698.2838,-840.6029 689.9466,-856.8777 707.9456,-869 716.2319,-874.5808 725.5111,-879.0195 735.127,-882.5481" stroke="#00ff00" fill="none"/>
+<polygon points="734.2372,-885.9407 744.8309,-885.7818 736.4503,-879.2997 734.2372,-885.9407" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge66">
+<title>ERC20Upgradeable._burn-&gt;ERC20Upgradeable._afterTokenTransfer</title>
+<path d="M553.5467,-806.2807C597.5516,-812.0558 677.5512,-822.5548 739.4722,-830.6812" stroke="#00ff00" fill="none"/>
+<polygon points="739.2659,-834.1841 749.6363,-832.0151 740.1768,-827.2436 739.2659,-834.1841" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge68">
+<title>ERC20Upgradeable._approve-&gt;Initializable.address</title>
+<path d="M868.9094,-978.7006C893.7306,-975.5268 923.7933,-968.8589 943.4912,-950 1004.9535,-891.1555 1048.9794,-625.5736 1062.6951,-537.9711" stroke="#00ff00" fill="none"/>
+<polygon points="1066.1726,-538.3857 1064.2522,-527.9664 1059.2559,-537.3091 1066.1726,-538.3857" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge69">
+<title>ERC20Upgradeable._approve-&gt;Initializable.address</title>
+<path d="M867.4834,-994.3841C892.5705,-993.7788 923.4145,-987.2216 943.4912,-968 1006.6997,-907.4836 1051.467,-628.3158 1063.7904,-538.0641" stroke="#00ff00" fill="none"/>
+<polygon points="1067.2769,-538.397 1065.1315,-528.0217 1060.3385,-537.4704 1067.2769,-538.397" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge71">
+<title>ERC20Upgradeable._spendAllowance-&gt;Initializable.type</title>
+<path d="M600.3926,-852.941C626.954,-849.2675 655.8943,-842.2138 679.9456,-829 833.1646,-744.8218 836.1524,-674.987 943.4912,-537 961.2016,-514.2328 956.3672,-500.2418 979.4912,-483 994.0896,-472.1151 1013.1352,-465.5678 1029.7482,-461.6546" stroke="#00ff00" fill="none"/>
+<polygon points="1030.6587,-465.0395 1039.7163,-459.5433 1029.2081,-458.1915 1030.6587,-465.0395" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge70">
+<title>ERC20Upgradeable._spendAllowance-&gt;ERC20Upgradeable.allowance</title>
+<path d="M599.0554,-851.8448C627.8438,-854.3986 658.602,-862.5745 679.9456,-883 722.6459,-923.8635 666.4308,-970.9328 707.9456,-1013 722.9509,-1028.2049 744.6547,-1035.5854 765.3532,-1038.9605" stroke="#00ff00" fill="none"/>
+<polygon points="765.0224,-1042.4474 775.3998,-1040.3123 765.9559,-1035.51 765.0224,-1042.4474" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge72">
+<title>ERC20Upgradeable._spendAllowance-&gt;ERC20Upgradeable._approve</title>
+<path d="M600.8825,-853.792C628.555,-856.839 658.0794,-864.8426 679.9456,-883 707.6396,-905.9967 680.9203,-935.2211 707.9456,-959 724.4573,-973.5281 747.1981,-980.685 768.2964,-984.0717" stroke="#00ff00" fill="none"/>
+<polygon points="768.1091,-987.578 778.4874,-985.4471 769.0454,-980.6409 768.1091,-987.578" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge75">
+<title>ERC20Upgradeable._beforeTokenTransfer-&gt;PausableUpgradeable.paused</title>
+<path d="M876.0207,-911.573C899.9224,-921.4693 926.8408,-936.7055 943.4912,-959 1013.1025,-1052.2082 1054.0861,-1424.2464 1064.5371,-1530.5186" stroke="#00ff00" fill="none"/>
+<polygon points="1061.0831,-1531.1631 1065.5319,-1540.7786 1068.0504,-1530.4875 1061.0831,-1531.1631" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge74">
+<title>ERC20Upgradeable._beforeTokenTransfer-&gt;ERC20Upgradeable._beforeTokenTransfer</title>
+<path d="M804.1468,-913.7817C800.481,-923.3149 807.6716,-932 825.7184,-932 836.7157,-932 843.6817,-928.7749 846.6163,-924.0981" stroke="#ffa500" fill="none"/>
+<polygon points="850.1308,-923.9886 847.2901,-913.7817 843.1457,-923.5323 850.1308,-923.9886" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge134">
+<title>ERC20Upgradeable._beforeTokenTransfer-&gt;ERC20Upgradeable._beforeTokenTransfer</title>
+<path d="M790.9385,-912.8636C769.8282,-930.3779 781.4216,-950 825.7184,-950 863.7861,-950 877.7013,-935.5086 867.4641,-920.317" stroke="#ffa500" fill="none"/>
+<polygon points="869.8835,-917.7799 860.4984,-912.8636 864.7693,-922.5595 869.8835,-917.7799" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="node" id="node78">
+<title>ERC20PausableUpgradeable.__ERC20Pausable_init</title>
+<ellipse ry="18" rx="101.3259" cy="-1312" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1307.8" x="520.9288" text-anchor="middle">__ERC20Pausable_init</text>
+</g>
+
+<g class="edge" id="edge73">
+<title>ERC20PausableUpgradeable.__ERC20Pausable_init-&gt;PausableUpgradeable.__Pausable_init_unchained</title>
+<path d="M575.4191,-1327.1963C626.9468,-1341.5664 704.3709,-1363.1585 759.4492,-1378.5188" stroke="#00ff00" fill="none"/>
+<polygon points="758.5454,-1381.9002 769.1181,-1381.2152 760.4259,-1375.1575 758.5454,-1381.9002" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node79">
+<title>ERC20PausableUpgradeable.__ERC20Pausable_init_unchained</title>
+<ellipse ry="18" rx="145.8552" cy="-1258" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1253.8" x="520.9288" text-anchor="middle">__ERC20Pausable_init_unchained</text>
+</g>
+
+<g class="node" id="node80">
+<title>ERC20PausableUpgradeable._beforeTokenTransfer</title>
+<ellipse ry="18" rx="97.7958" cy="-1204" cx="520.9288" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1199.8" x="520.9288" text-anchor="middle">_beforeTokenTransfer</text>
+</g>
+
+<g class="node" id="node81">
+<title>StableCoin.&lt;Constructor&gt;</title>
+<ellipse ry="18" rx="67.5419" cy="-1999" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1994.8" x="184.478" text-anchor="middle">&lt;Constructor&gt;</text>
+</g>
+
+<g class="edge" id="edge76">
+<title>StableCoin.&lt;Constructor&gt;-&gt;Initializable._disableInitializers</title>
+<path d="M248.7559,-2004.5709C279.1986,-2003.4508 313.3202,-1996.0172 333.912,-1972 428.5395,-1861.6318 280.8851,-780.946 367.2513,-664 451.2117,-550.3117 622.9629,-519.5484 730.7631,-511.8118" stroke="#00ff00" fill="none"/>
+<polygon points="731.2444,-515.2877 740.9906,-511.133 730.7807,-508.3031 731.2444,-515.2877" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node82">
+<title>StableCoin.initialize</title>
+<ellipse ry="18" rx="44.6549" cy="-2107" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2102.8" x="184.478" text-anchor="middle">initialize</text>
+</g>
+
+<g class="edge" id="edge79">
+<title>StableCoin.initialize-&gt;OwnableUpgradeable.__Ownable_init</title>
+<path d="M227.7694,-2111.7054C261.5214,-2112.7848 307.0351,-2108.1028 333.912,-2080 410.475,-1999.9449 290.495,-1912.8698 367.2513,-1833 385.9757,-1813.5161 413.4423,-1805.1171 439.9948,-1802.1225" stroke="#00ff00" fill="none"/>
+<polygon points="440.454,-1805.5956 450.1064,-1801.2276 439.8368,-1798.6229 440.454,-1805.5956" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge82">
+<title>StableCoin.initialize-&gt;OwnableUpgradeable._transferOwnership</title>
+<path d="M229.3088,-2107.8267C358.9757,-2107.6994 738.2295,-2089.1805 943.4912,-1887 979.5378,-1851.4945 943.3024,-1814.3605 979.4912,-1779 983.4801,-1775.1024 988.0179,-1771.7659 992.88,-1768.9099" stroke="#00ff00" fill="none"/>
+<polygon points="994.6301,-1771.9459 1001.9335,-1764.2706 991.4378,-1765.7162 994.6301,-1771.9459" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge77">
+<title>StableCoin.initialize-&gt;ERC20Upgradeable.__ERC20_init</title>
+<path d="M142.3909,-2113.2673C99.5253,-2116.9175 35.6879,-2114.1109 9.0439,-2071 -41.7912,-1988.7471 137.9152,-1289.2028 177.088,-1139.9436" stroke="#00ff00" fill="none"/>
+<polygon points="180.5013,-1140.7254 179.6605,-1130.164 173.7316,-1138.9446 180.5013,-1140.7254" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge78">
+<title>StableCoin.initialize-&gt;ERC20PausableUpgradeable.__ERC20Pausable_init</title>
+<path d="M227.4072,-2112.2784C261.6527,-2113.8469 308.0285,-2109.5481 333.912,-2080 386.1703,-2020.343 320.0849,-1430.759 367.2513,-1367 382.3523,-1346.5867 405.7098,-1333.7252 429.6937,-1325.63" stroke="#00ff00" fill="none"/>
+<polygon points="430.7526,-1328.9661 439.2601,-1322.6516 428.6717,-1322.2825 430.7526,-1328.9661" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node83">
+<title>StableCoin._setDefaultThresholds</title>
+<ellipse ry="18" rx="98.412" cy="-2654" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2649.8" x="520.9288" text-anchor="middle">_setDefaultThresholds</text>
+</g>
+
+<g class="edge" id="edge81">
+<title>StableCoin.initialize-&gt;StableCoin._setDefaultThresholds</title>
+<path d="M228.9563,-2103.9038C261.5728,-2104.041 305.0293,-2109.566 333.912,-2134 413.3272,-2201.1833 492.3909,-2527.6593 514.7166,-2625.9471" stroke="#00ff00" fill="none"/>
+<polygon points="511.3149,-2626.7732 516.9284,-2635.7587 518.1436,-2625.2338 511.3149,-2626.7732" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node103">
+<title>StableCoin._setRequestTypeCount</title>
+<ellipse ry="18" rx="101.3066" cy="-2708" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2703.8" x="520.9288" text-anchor="middle">_setRequestTypeCount</text>
+</g>
+
+<g class="edge" id="edge80">
+<title>StableCoin.initialize-&gt;StableCoin._setRequestTypeCount</title>
+<path d="M227.6425,-2101.8029C261.7893,-2100.3362 307.9077,-2104.7343 333.912,-2134 414.8023,-2225.0352 286.1412,-2590.1606 367.2513,-2681 378.6382,-2693.7528 393.7511,-2701.8585 410.0607,-2706.8335" stroke="#00ff00" fill="none"/>
+<polygon points="409.2195,-2710.2314 419.7827,-2709.4124 411.0143,-2703.4654 409.2195,-2710.2314" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node84">
+<title>StableCoin.decimals</title>
+<ellipse ry="18" rx="45.2208" cy="-2917" cx="184.478" stroke="#00ff00" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2912.8" x="184.478" text-anchor="middle">decimals</text>
+</g>
+
+<g class="node" id="node85">
+<title>StableCoin.getSignatoryList</title>
+<ellipse ry="18" rx="75.3176" cy="-2863" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2858.8" x="184.478" text-anchor="middle">getSignatoryList</text>
+</g>
+
+<g class="node" id="node86">
+<title>StableCoin.getThresholds</title>
+<ellipse ry="18" rx="65.991" cy="-2701" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2696.8" x="184.478" text-anchor="middle">getThresholds</text>
+</g>
+
+<g class="node" id="node104">
+<title>StableCoin.TokenSupplyControlRequestType</title>
+<ellipse ry="18" rx="143.5692" cy="-2924" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2919.8" x="520.9288" text-anchor="middle">TokenSupplyControlRequestType</text>
+</g>
+
+<g class="edge" id="edge83">
+<title>StableCoin.getThresholds-&gt;StableCoin.TokenSupplyControlRequestType</title>
+<path d="M248.9808,-2697.0782C278.5412,-2698.8017 311.8332,-2706.272 333.912,-2728 388.4791,-2781.6998 312.5546,-2843.4323 367.2513,-2897 372.7066,-2902.3426 378.8236,-2906.8361 385.3906,-2910.6025" stroke="#00ff00" fill="none"/>
+<polygon points="384.1057,-2913.8761 394.6045,-2915.2995 387.2849,-2907.6396 384.1057,-2913.8761" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node105">
+<title>StableCoin.TransactionControlRequestType</title>
+<ellipse ry="18" rx="137.1599" cy="-2762" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2757.8" x="520.9288" text-anchor="middle">TransactionControlRequestType</text>
+</g>
+
+<g class="edge" id="edge84">
+<title>StableCoin.getThresholds-&gt;StableCoin.TransactionControlRequestType</title>
+<path d="M240.2541,-2710.6927C268.3768,-2715.6776 302.9917,-2721.9618 333.912,-2728 348.7719,-2730.9019 352.3845,-2732.1341 367.2513,-2735 386.479,-2738.7066 407.1013,-2742.4727 426.7974,-2745.9692" stroke="#00ff00" fill="none"/>
+<polygon points="426.2335,-2749.4237 436.6899,-2747.7167 427.4513,-2742.5304 426.2335,-2749.4237" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node106">
+<title>StableCoin.SignatoryControlRequestType</title>
+<ellipse ry="18" rx="129.0965" cy="-2816" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2811.8" x="520.9288" text-anchor="middle">SignatoryControlRequestType</text>
+</g>
+
+<g class="edge" id="edge85">
+<title>StableCoin.getThresholds-&gt;StableCoin.SignatoryControlRequestType</title>
+<path d="M250.3968,-2700.6264C278.3646,-2703.4049 309.9611,-2710.7314 333.912,-2728 358.9734,-2746.0692 342.1463,-2770.9914 367.2513,-2789 376.0988,-2795.3466 385.9566,-2800.3658 396.2893,-2804.3181" stroke="#00ff00" fill="none"/>
+<polygon points="395.3019,-2807.6801 405.8967,-2807.6552 397.5987,-2801.0677 395.3019,-2807.6801" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node107">
+<title>StableCoin.ThresholdControlRequestType</title>
+<ellipse ry="18" rx="130.8027" cy="-2870" cx="520.9288" stroke="#000000" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2865.8" x="520.9288" text-anchor="middle">ThresholdControlRequestType</text>
+</g>
+
+<g class="edge" id="edge86">
+<title>StableCoin.getThresholds-&gt;StableCoin.ThresholdControlRequestType</title>
+<path d="M249.669,-2698.0464C278.6699,-2700.1232 311.2966,-2707.6104 333.912,-2728 373.4358,-2763.6339 327.6415,-2807.4617 367.2513,-2843 374.5092,-2849.5118 382.7644,-2854.7262 391.5929,-2858.8793" stroke="#00ff00" fill="none"/>
+<polygon points="390.4084,-2862.1781 400.9829,-2862.8329 393.1248,-2855.7266 390.4084,-2862.1781" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node87">
+<title>StableCoin.getTokenSupplyControlRequest</title>
+<ellipse ry="18" rx="135.4808" cy="-2431" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2426.8" x="184.478" text-anchor="middle">getTokenSupplyControlRequest</text>
+</g>
+
+<g class="edge" id="edge87">
+<title>StableCoin.getTokenSupplyControlRequest-&gt;Common.address</title>
+<path d="M310.0668,-2424.1646C438.7844,-2419.9988 627.3249,-2422.7018 679.9456,-2470 794.6639,-2573.1145 820.2542,-3093.1732 824.8403,-3220.7244" stroke="#00ff00" fill="none"/>
+<polygon points="821.347,-3220.9833 825.1894,-3230.8568 828.3429,-3220.7421 821.347,-3220.9833" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node88">
+<title>StableCoin.getTransactionControlRequest</title>
+<ellipse ry="18" rx="129.0714" cy="-2377" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2372.8" x="184.478" text-anchor="middle">getTransactionControlRequest</text>
+</g>
+
+<g class="edge" id="edge88">
+<title>StableCoin.getTransactionControlRequest-&gt;Common.address</title>
+<path d="M305.5152,-2370.731C434.413,-2366.8012 627.035,-2369.7021 679.9456,-2418 801.7409,-2529.1772 822.0574,-3087.6758 825.1844,-3220.5833" stroke="#00ff00" fill="none"/>
+<polygon points="821.6892,-3220.8437 825.4092,-3230.7639 828.6875,-3220.6891 821.6892,-3220.8437" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node89">
+<title>StableCoin.getSignatoryControlRequest</title>
+<ellipse ry="18" rx="121.008" cy="-2323" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2318.8" x="184.478" text-anchor="middle">getSignatoryControlRequest</text>
+</g>
+
+<g class="edge" id="edge89">
+<title>StableCoin.getSignatoryControlRequest-&gt;Common.address</title>
+<path d="M298.9779,-2317.0928C427.8979,-2313.0502 626.411,-2315.5292 679.9456,-2365 744.8688,-2424.9949 809.4365,-3075.5097 823.0854,-3220.4743" stroke="#00ff00" fill="none"/>
+<polygon points="819.631,-3221.1251 824.0476,-3230.7554 826.6005,-3220.4728 819.631,-3221.1251" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node90">
+<title>StableCoin.getThresholdControlRequest</title>
+<ellipse ry="18" rx="122.7142" cy="-2269" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2264.8" x="184.478" text-anchor="middle">getThresholdControlRequest</text>
+</g>
+
+<g class="edge" id="edge90">
+<title>StableCoin.getThresholdControlRequest-&gt;Common.address</title>
+<path d="M300.2053,-2262.9705C429.2288,-2258.8966 626.7983,-2261.4292 679.9456,-2311 748.7269,-2375.1527 810.7575,-3070.7982 823.3815,-3220.6585" stroke="#00ff00" fill="none"/>
+<polygon points="819.9139,-3221.1922 824.2358,-3230.8655 826.8895,-3220.6084 819.9139,-3221.1922" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node91">
+<title>StableCoin.createTokenSupplyControlRequest</title>
+<ellipse ry="18" rx="146.9741" cy="-2215" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2210.8" x="184.478" text-anchor="middle">createTokenSupplyControlRequest</text>
+</g>
+
+<g class="edge" id="edge91">
+<title>StableCoin.createTokenSupplyControlRequest-&gt;Common.address</title>
+<path d="M320.9286,-2208.3061C449.5197,-2205.1302 629.755,-2209.7973 679.9456,-2257 752.5421,-2325.2747 811.9061,-3065.2114 823.6191,-3220.5099" stroke="#00ff00" fill="none"/>
+<polygon points="820.1424,-3220.9532 824.3796,-3230.6638 827.1228,-3220.4303 820.1424,-3220.9532" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node92">
+<title>StableCoin.updateTokenSupplyControlRequest</title>
+<ellipse ry="18" rx="149.3681" cy="-2161" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2156.8" x="184.478" text-anchor="middle">updateTokenSupplyControlRequest</text>
+</g>
+
+<g class="edge" id="edge92">
+<title>StableCoin.updateTokenSupplyControlRequest-&gt;Common.address</title>
+<path d="M322.8201,-2154.1818C451.3433,-2151.0344 630.1658,-2155.8337 679.9456,-2203 756.3883,-2275.4293 813.0272,-3060.2473 823.8441,-3220.5178" stroke="#00ff00" fill="none"/>
+<polygon points="820.3829,-3221.2159 824.5434,-3230.9596 827.3673,-3220.7481 820.3829,-3221.2159" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node93">
+<title>StableCoin.createTransactionControlRequest</title>
+<ellipse ry="18" rx="140.0647" cy="-3025" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-3020.8" x="184.478" text-anchor="middle">createTransactionControlRequest</text>
+</g>
+
+<g class="edge" id="edge93">
+<title>StableCoin.createTransactionControlRequest-&gt;Common.address</title>
+<path d="M188.2369,-3043.1476C205.7661,-3125.8471 282.2268,-3465.5533 367.2513,-3525 424.2,-3564.8169 620.4327,-3560.8712 679.9456,-3525 771.4789,-3469.8286 808.4966,-3335.8521 820.6695,-3277.2406" stroke="#00ff00" fill="none"/>
+<polygon points="824.1466,-3277.6998 822.6609,-3267.2096 817.2806,-3276.3367 824.1466,-3277.6998" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node94">
+<title>StableCoin.createSignatoryControlRequest</title>
+<ellipse ry="18" rx="132.0014" cy="-2971" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2966.8" x="184.478" text-anchor="middle">createSignatoryControlRequest</text>
+</g>
+
+<g class="edge" id="edge94">
+<title>StableCoin.createSignatoryControlRequest-&gt;Common.address</title>
+<path d="M306.2761,-2978.0929C316.6895,-2982.8822 326.1788,-2989.3538 333.912,-2998 407.2626,-3080.0106 286.8734,-3416.8638 367.2513,-3492 418.0138,-3539.4521 619.4789,-3526.239 679.9456,-3492 762.8223,-3445.0715 803.7162,-3330.1539 818.7289,-3276.9148" stroke="#00ff00" fill="none"/>
+<polygon points="822.1436,-3277.6958 821.3912,-3267.1277 815.389,-3275.8584 822.1436,-3277.6958" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node95">
+<title>StableCoin.updateSignatoryControlRequest</title>
+<ellipse ry="18" rx="134.8953" cy="-2647" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2642.8" x="184.478" text-anchor="middle">updateSignatoryControlRequest</text>
+</g>
+
+<g class="edge" id="edge95">
+<title>StableCoin.updateSignatoryControlRequest-&gt;Common.address</title>
+<path d="M261.2815,-2632.1757C384.0807,-2610.3584 617.2056,-2577.2638 679.9456,-2627 775.7305,-2702.9319 814.6369,-3109.1906 823.6034,-3220.6808" stroke="#00ff00" fill="none"/>
+<polygon points="820.1271,-3221.1202 824.4006,-3230.8149 827.1055,-3220.5712 820.1271,-3221.1202" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node96">
+<title>StableCoin.createThresholdControlRequest</title>
+<ellipse ry="18" rx="133.7072" cy="-2593" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2588.8" x="184.478" text-anchor="middle">createThresholdControlRequest</text>
+</g>
+
+<g class="edge" id="edge96">
+<title>StableCoin.createThresholdControlRequest-&gt;Common.address</title>
+<path d="M279.4524,-2580.3032C405.9346,-2565.6098 620.64,-2549.0953 679.9456,-2597 779.8116,-2677.6677 815.9638,-3106.3186 823.9191,-3220.8473" stroke="#00ff00" fill="none"/>
+<polygon points="820.434,-3221.1874 824.6021,-3230.9279 827.418,-3220.7141 820.434,-3221.1874" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node97">
+<title>StableCoin.updateThresholdControlRequest</title>
+<ellipse ry="18" rx="136.6014" cy="-2539" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2534.8" x="184.478" text-anchor="middle">updateThresholdControlRequest</text>
+</g>
+
+<g class="edge" id="edge97">
+<title>StableCoin.updateThresholdControlRequest-&gt;Common.address</title>
+<path d="M296.6049,-2528.6958C424.8287,-2519.475 624.2422,-2513.7772 679.9456,-2561 783.4675,-2648.7611 817.1224,-3102.93 824.1877,-3220.9493" stroke="#00ff00" fill="none"/>
+<polygon points="820.6973,-3221.2188 824.773,-3230.9983 827.6855,-3220.8117 820.6973,-3221.2188" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node98">
+<title>StableCoin.vote</title>
+<ellipse ry="18" rx="27.8286" cy="-2755" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2750.8" x="184.478" text-anchor="middle">vote</text>
+</g>
+
+<g class="edge" id="edge100">
+<title>StableCoin.vote-&gt;ArrayOps.deleteFromArray</title>
+<path d="M197.1958,-2738.9116C226.2411,-2721.722 297.7246,-2716.2899 333.912,-2755 424.9229,-2852.3556 276.9259,-2955.0081 367.2513,-3053 394.5005,-3082.562 441.5583,-3087.9793 476.4413,-3092.4898" stroke="#ffa500" fill="none"/>
+<polygon points="476.0086,-3095.9631 486.3847,-3093.8214 476.9378,-3089.025 476.0086,-3095.9631" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge103">
+<title>StableCoin.vote-&gt;ArrayOps.deleteFromArray</title>
+<path d="M208.1564,-2745.579C241.4664,-2739.0617 301.6854,-2738.5268 333.912,-2773 424.9229,-2870.3556 276.9259,-2973.0081 367.2513,-3071 384.8988,-3090.1453 410.8546,-3099.1637 436.4308,-3103.4244" stroke="#ffa500" fill="none"/>
+<polygon points="436.1794,-3106.9242 446.5756,-3104.8823 437.1752,-3099.9954 436.1794,-3106.9242" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge106">
+<title>StableCoin.vote-&gt;ArrayOps.deleteFromArray</title>
+<path d="M212.1844,-2757.3842C246.1334,-2757.0734 302.9457,-2757.8749 333.912,-2791 424.9229,-2888.3556 276.9259,-2991.0081 367.2513,-3089 388.77,-3112.3451 422.6418,-3120.633 453.1157,-3121.8889" stroke="#ffa500" fill="none"/>
+<polygon points="453.2409,-3125.3913 463.2973,-3122.0568 453.3564,-3118.3923 453.2409,-3125.3913" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge109">
+<title>StableCoin.vote-&gt;ArrayOps.deleteFromArray</title>
+<path d="M203.343,-2768.3458C235.3401,-2775.204 300.0651,-2772.7935 333.912,-2809 424.9229,-2906.3556 276.9259,-3009.0081 367.2513,-3107 399.7827,-3142.2925 460.5466,-3143.1723 495.1216,-3131.4614" stroke="#ffa500" fill="none"/>
+<polygon points="496.5875,-3134.644 504.5426,-3127.6463 493.96,-3128.1558 496.5875,-3134.644" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge99">
+<title>StableCoin.vote-&gt;ArrayOps.isElement</title>
+<path d="M197.2437,-2738.8673C226.3895,-2721.5845 298.0701,-2715.9698 333.912,-2755 387.5059,-2813.3613 313.5165,-3051.7685 367.2513,-3110 395.8427,-3140.984 446.4703,-3144.2736 481.7723,-3148.1579" stroke="#ffa500" fill="none"/>
+<polygon points="481.3972,-3151.6379 491.7426,-3149.3528 482.2302,-3144.6877 481.3972,-3151.6379" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge102">
+<title>StableCoin.vote-&gt;ArrayOps.isElement</title>
+<path d="M208.2399,-2745.5016C241.6514,-2738.8903 301.9931,-2738.2417 333.912,-2773 387.5059,-2831.3613 313.5165,-3069.7685 367.2513,-3128 390.6243,-3153.3289 428.7236,-3160.1502 461.1383,-3161.7089" stroke="#ffa500" fill="none"/>
+<polygon points="461.3275,-3165.2169 471.4369,-3162.0468 461.5571,-3158.2206 461.3275,-3165.2169" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge105">
+<title>StableCoin.vote-&gt;ArrayOps.isElement</title>
+<path d="M211.9836,-2757.2993C245.9963,-2756.8898 303.1521,-2757.5039 333.912,-2791 387.5059,-2849.3613 313.5165,-3087.7685 367.2513,-3146 393.5557,-3174.5056 438.512,-3179.5702 473.026,-3176.9234" stroke="#ffa500" fill="none"/>
+<polygon points="473.775,-3180.3654 483.3697,-3175.8718 473.067,-3173.4013 473.775,-3180.3654" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge108">
+<title>StableCoin.vote-&gt;ArrayOps.isElement</title>
+<path d="M203.4114,-2768.2824C235.5117,-2775.045 300.3882,-2772.4941 333.912,-2809 387.5059,-2867.3613 313.5165,-3105.7685 367.2513,-3164 400.1899,-3199.695 462.3752,-3198.6338 496.6808,-3185.5171" stroke="#ffa500" fill="none"/>
+<polygon points="498.3085,-3188.6221 505.97,-3181.3041 495.4172,-3182.2471 498.3085,-3188.6221" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge98">
+<title>StableCoin.vote-&gt;Common._isApprovable</title>
+<path d="M197.315,-2738.8026C226.611,-2721.3838 298.5855,-2715.5027 333.912,-2755 407.2626,-2837.0106 293.7027,-3167.167 367.2513,-3249 393.7031,-3278.4312 440.0062,-3283.0656 474.8922,-3286.636" stroke="#00ff00" fill="none"/>
+<polygon points="474.548,-3290.119 484.8595,-3287.6851 475.2808,-3283.1575 474.548,-3290.119" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge101">
+<title>StableCoin.vote-&gt;Common._isApprovable</title>
+<path d="M208.0838,-2745.4454C241.5892,-2738.6448 302.3642,-2737.7275 333.912,-2773 407.2626,-2855.0106 293.7027,-3185.167 367.2513,-3267 386.2007,-3288.0838 415.3378,-3296.442 443.1669,-3299.5702" stroke="#00ff00" fill="none"/>
+<polygon points="443.0622,-3303.0752 453.3393,-3300.5 443.6994,-3296.1042 443.0622,-3303.0752" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge104">
+<title>StableCoin.vote-&gt;Common._isApprovable</title>
+<path d="M212.1247,-2757.1714C246.2849,-2756.6283 303.5944,-2757.103 333.912,-2791 407.2626,-2873.0106 293.7027,-3203.167 367.2513,-3285 390.9639,-3311.3835 430.6294,-3317.8399 463.722,-3316.6475" stroke="#00ff00" fill="none"/>
+<polygon points="463.9838,-3320.1382 473.7562,-3316.0456 463.5645,-3313.1508 463.9838,-3320.1382" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge107">
+<title>StableCoin.vote-&gt;Common._isApprovable</title>
+<path d="M203.5134,-2768.1899C235.7678,-2774.8129 300.8703,-2772.0572 333.912,-2809 407.2626,-2891.0106 293.7027,-3221.167 367.2513,-3303 399.5537,-3338.9409 461.4603,-3337.9025 496.0269,-3324.8337" stroke="#00ff00" fill="none"/>
+<polygon points="497.7108,-3327.9147 505.4094,-3320.6358 494.8519,-3321.5251 497.7108,-3327.9147" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node99">
+<title>StableCoin.execute</title>
+<ellipse ry="18" rx="40.548" cy="-2485" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2480.8" x="184.478" text-anchor="middle">execute</text>
+</g>
+
+<g class="edge" id="edge123">
+<title>StableCoin.execute-&gt;ArrayOps.deleteFromArray</title>
+<path d="M223.5804,-2479.9939C258.0568,-2477.9973 306.8912,-2481.5215 333.912,-2512 417.7903,-2606.6117 284.0391,-2984.802 367.2513,-3080 384.1505,-3099.3333 409.502,-3108.4837 434.7674,-3112.3336" stroke="#ffa500" fill="none"/>
+<polygon points="434.4452,-3115.8206 444.8043,-3113.598 435.3202,-3108.8755 434.4452,-3115.8206" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge110">
+<title>StableCoin.execute-&gt;Common._isExecutable</title>
+<path d="M198.716,-2467.9765C228.9307,-2451.0595 299.5087,-2445.7416 333.912,-2485 385.7432,-2544.1458 315.8365,-3132.4919 367.2513,-3192 394.0216,-3222.9842 442.4942,-3227.8926 477.8615,-3232.1843" stroke="#00ff00" fill="none"/>
+<polygon points="477.5571,-3235.6737 487.9185,-3233.4617 478.4392,-3228.7295 477.5571,-3235.6737" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge119">
+<title>StableCoin.execute-&gt;Common._isExecutable</title>
+<path d="M216.5185,-2473.8661C251.1257,-2468.5147 305.1557,-2470.1855 333.912,-2503 385.7432,-2562.1458 315.8365,-3150.4919 367.2513,-3210 386.726,-3232.5402 417.686,-3241.2806 446.7305,-3244.6111" stroke="#00ff00" fill="none"/>
+<polygon points="446.6159,-3248.1158 456.9021,-3245.5772 447.2779,-3241.1472 446.6159,-3248.1158" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge122">
+<title>StableCoin.execute-&gt;Common._isExecutable</title>
+<path d="M225.0115,-2486.9416C259.4578,-2486.9693 307.4145,-2490.7631 333.912,-2521 385.7432,-2580.1458 315.8365,-3168.4919 367.2513,-3228 390.3634,-3254.7501 429.6517,-3262.0642 462.7171,-3261.606" stroke="#00ff00" fill="none"/>
+<polygon points="462.8933,-3265.102 472.7542,-3261.2272 462.6293,-3258.1069 462.8933,-3265.102" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge124">
+<title>StableCoin.execute-&gt;Common._isExecutable</title>
+<path d="M209.6006,-2499.1764C243.4949,-2504.4329 303.1576,-2503.9054 333.912,-2539 385.7432,-2598.1458 315.8365,-3186.4919 367.2513,-3246 398.7933,-3282.507 460.464,-3282.8139 495.3276,-3270.5708" stroke="#00ff00" fill="none"/>
+<polygon points="496.94,-3273.6902 504.8136,-3266.601 494.2376,-3267.2328 496.94,-3273.6902" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge113">
+<title>StableCoin.execute-&gt;Common.address</title>
+<path d="M221.9713,-2477.7721C325.53,-2465.1497 612.3114,-2449.6521 679.9456,-2509 789.3552,-2605.005 819.0435,-3096.7625 824.6344,-3220.7077" stroke="#00ff00" fill="none"/>
+<polygon points="821.1465,-3221.065 825.0763,-3230.904 828.1399,-3220.7618 821.1465,-3221.065" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge115">
+<title>StableCoin.execute-&gt;Common.address</title>
+<path d="M224.998,-2485.9268C331.005,-2482.8597 612.9594,-2468.2207 679.9456,-2527 787.5849,-2621.4515 818.0619,-3098.9516 824.3438,-3220.7743" stroke="#00ff00" fill="none"/>
+<polygon points="820.8507,-3221.0004 824.8479,-3230.8123 827.8418,-3220.6493 820.8507,-3221.0004" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge120">
+<title>StableCoin.execute-&gt;PausableUpgradeable._pause</title>
+<path d="M223.4085,-2490.129C258.015,-2492.2658 307.1516,-2488.882 333.912,-2458 401.3349,-2380.1925 299.6405,-1609.6442 367.2513,-1532 393.2378,-1502.1572 439.6066,-1497.581 474.6349,-1499.153" stroke="#00ff00" fill="none"/>
+<polygon points="474.4468,-1502.648 484.646,-1499.7799 474.8843,-1495.6617 474.4468,-1502.648" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge121">
+<title>StableCoin.execute-&gt;PausableUpgradeable._unpause</title>
+<path d="M223.4228,-2490.1413C258.0392,-2492.2868 307.1823,-2488.9085 333.912,-2458 405.1801,-2375.5902 295.7842,-1560.2372 367.2513,-1478 391.0034,-1450.6685 431.8505,-1444.5182 465.4643,-1444.8811" stroke="#00ff00" fill="none"/>
+<polygon points="465.5364,-1448.3847 475.637,-1445.1866 465.7466,-1441.3879 465.5364,-1448.3847" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge116">
+<title>StableCoin.execute-&gt;ERC20Upgradeable.allowance</title>
+<path d="M223.481,-2490.1914C258.1375,-2492.3714 307.3068,-2489.0158 333.912,-2458 426.8302,-2349.6777 270.7421,-1279.1355 367.2513,-1174 414.535,-1122.49 624.5237,-1181.6314 679.9456,-1139 707.1603,-1118.0661 681.9666,-1089.4489 707.9456,-1067 723.7642,-1053.3309 745.1157,-1046.2127 765.2948,-1042.6163" stroke="#00ff00" fill="none"/>
+<polygon points="766.03,-1046.0448 775.3898,-1041.0805 764.9771,-1039.1245 766.03,-1046.0448" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge111">
+<title>StableCoin.execute-&gt;ERC20Upgradeable._mint</title>
+<path d="M223.5256,-2490.2296C258.2129,-2492.4359 307.4024,-2489.0975 333.912,-2458 394.5809,-2386.8314 306.4105,-846.0217 367.2513,-775 393.9579,-743.8245 442.8968,-740.097 478.3885,-742.2457" stroke="#00ff00" fill="none"/>
+<polygon points="478.2294,-745.7438 488.4715,-743.033 478.7744,-738.765 478.2294,-745.7438" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge112">
+<title>StableCoin.execute-&gt;ERC20Upgradeable._burn</title>
+<path d="M220.2109,-2476.3902C255.0078,-2474.6156 306.5367,-2472.0917 333.912,-2440 392.6577,-2371.1333 308.3393,-879.7245 367.2513,-811 397.2576,-775.9959 455.2925,-775.6018 490.8238,-784.5592" stroke="#00ff00" fill="none"/>
+<polygon points="490.0575,-787.9824 500.6395,-787.461 492.042,-781.2696 490.0575,-787.9824" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge114">
+<title>StableCoin.execute-&gt;ERC20Upgradeable._burn</title>
+<path d="M223.5209,-2490.2255C258.2048,-2492.429 307.3922,-2489.0888 333.912,-2458 392.6577,-2389.1333 308.3393,-897.7245 367.2513,-829 393.9681,-797.8333 442.9051,-794.1041 478.3936,-796.25" stroke="#00ff00" fill="none"/>
+<polygon points="478.2337,-799.7481 488.4757,-797.0365 478.7782,-792.7693 478.2337,-799.7481" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge118">
+<title>StableCoin.execute-&gt;ERC20Upgradeable._burn</title>
+<path d="M206.6372,-2500.1318C240.0377,-2510.7408 302.687,-2512.6046 333.912,-2476 392.6577,-2407.1333 308.3393,-915.7245 367.2513,-847 394.5297,-815.1781 444.9724,-811.9595 480.6135,-810.4188" stroke="#00ff00" fill="none"/>
+<polygon points="480.8584,-813.9116 490.699,-809.9857 480.558,-806.918 480.8584,-813.9116" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge117">
+<title>StableCoin.execute-&gt;ERC20Upgradeable._spendAllowance</title>
+<path d="M223.5158,-2490.2212C258.1962,-2492.4217 307.3813,-2489.0795 333.912,-2458 390.7345,-2391.4351 310.2681,-949.4273 367.2513,-883 383.9117,-863.5785 409.2006,-854.8135 434.4821,-851.485" stroke="#00ff00" fill="none"/>
+<polygon points="434.9475,-854.9555 444.5293,-850.4347 434.2196,-847.9935 434.9475,-854.9555" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge125">
+<title>StableCoin.execute-&gt;StableCoin.TokenSupplyControlRequestType</title>
+<path d="M223.716,-2480.154C258.0388,-2478.3205 306.5597,-2481.9968 333.912,-2512 391.767,-2575.4622 309.2431,-2833.6779 367.2513,-2897 372.169,-2902.3681 377.7478,-2906.9067 383.7947,-2910.7308" stroke="#00ff00" fill="none"/>
+<polygon points="382.5267,-2914.0306 392.9666,-2915.8356 385.931,-2907.9141 382.5267,-2914.0306" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge126">
+<title>StableCoin.execute-&gt;StableCoin.TransactionControlRequestType</title>
+<path d="M223.9439,-2480.5352C257.9349,-2479.0589 305.8261,-2483.0485 333.912,-2512 403.6897,-2583.9281 297.3,-2663.2408 367.2513,-2735 373.0348,-2740.9329 379.6299,-2745.8335 386.7602,-2749.8638" stroke="#00ff00" fill="none"/>
+<polygon points="385.5482,-2753.1711 396.0574,-2754.5157 388.6805,-2746.9109 385.5482,-2753.1711" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge127">
+<title>StableCoin.execute-&gt;StableCoin.SignatoryControlRequestType</title>
+<path d="M223.8124,-2480.3573C257.9568,-2478.7126 306.1529,-2482.5537 333.912,-2512 418.9699,-2602.2278 281.9755,-2698.9781 367.2513,-2789 373.7497,-2795.8601 381.3305,-2801.3519 389.5781,-2805.7211" stroke="#00ff00" fill="none"/>
+<polygon points="388.2297,-2808.9545 398.7695,-2810.033 391.2027,-2802.6172 388.2297,-2808.9545" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge128">
+<title>StableCoin.execute-&gt;StableCoin.ThresholdControlRequestType</title>
+<path d="M223.6163,-2480.2456C257.872,-2478.4737 306.3503,-2482.189 333.912,-2512 384.0989,-2566.2825 316.9334,-2788.839 367.2513,-2843 373.4805,-2849.7049 380.7421,-2855.1104 388.6551,-2859.4426" stroke="#00ff00" fill="none"/>
+<polygon points="387.3196,-2862.6845 397.8457,-2863.8897 390.3687,-2856.3834 387.3196,-2862.6845" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node100">
+<title>StableCoin.cancelRequest</title>
+<ellipse ry="18" rx="66.6113" cy="-2809" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2804.8" x="184.478" text-anchor="middle">cancelRequest</text>
+</g>
+
+<g class="edge" id="edge129">
+<title>StableCoin.cancelRequest-&gt;Common._isCancellable</title>
+<path d="M200.0505,-2791.2745C230.8753,-2775.0731 299.64,-2770.6817 333.912,-2809 407.2626,-2891.0106 293.7027,-3221.167 367.2513,-3303 393.7031,-3332.4312 440.0062,-3337.0656 474.8922,-3340.636" stroke="#00ff00" fill="none"/>
+<polygon points="474.548,-3344.119 484.8595,-3341.6851 475.2808,-3337.1575 474.548,-3344.119" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge130">
+<title>StableCoin.cancelRequest-&gt;Common._isCancellable</title>
+<path d="M231.7842,-2796.2554C265.4022,-2793.8043 308.8671,-2798.9982 333.912,-2827 407.2626,-2909.0106 293.7027,-3239.167 367.2513,-3321 386.2007,-3342.0838 415.3378,-3350.442 443.1669,-3353.5702" stroke="#00ff00" fill="none"/>
+<polygon points="443.0622,-3357.0752 453.3393,-3354.5 443.6994,-3350.1042 443.0622,-3357.0752" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge131">
+<title>StableCoin.cancelRequest-&gt;Common._isCancellable</title>
+<path d="M250.6157,-2812.0425C280.3682,-2814.3935 313.3488,-2822.009 333.912,-2845 407.2626,-2927.0106 293.7027,-3257.167 367.2513,-3339 390.9639,-3365.3835 430.6294,-3371.8399 463.722,-3370.6475" stroke="#00ff00" fill="none"/>
+<polygon points="463.9838,-3374.1382 473.7562,-3370.0456 463.5645,-3367.1508 463.9838,-3374.1382" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge132">
+<title>StableCoin.cancelRequest-&gt;Common._isCancellable</title>
+<path d="M218.6087,-2824.5294C253.1617,-2828.81 305.4399,-2831.1663 333.912,-2863 407.2626,-2945.0106 293.7027,-3275.167 367.2513,-3357 399.5537,-3392.9409 461.4603,-3391.9025 496.0269,-3378.8337" stroke="#00ff00" fill="none"/>
+<polygon points="497.7108,-3381.9147 505.4094,-3374.6358 494.8519,-3375.5251 497.7108,-3381.9147" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node101">
+<title>StableCoin.swap</title>
+<ellipse ry="18" rx="30.7577" cy="-2053" cx="184.478" stroke="#0000ff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-2048.8" x="184.478" text-anchor="middle">swap</text>
+</g>
+
+<g class="edge" id="edge133">
+<title>StableCoin.swap-&gt;ERC20Upgradeable._mint</title>
+<path d="M214.4687,-2057.4781C249.0633,-2060.7452 304.8922,-2059.8073 333.912,-2026 424.4798,-1920.4908 276.4287,-880.2899 367.2513,-775 394.0643,-743.916 442.9836,-740.1716 478.4417,-742.2913" stroke="#00ff00" fill="none"/>
+<polygon points="478.2744,-745.7888 488.5144,-743.0698 478.8139,-738.8096 478.2744,-745.7888" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="node" id="node102">
+<title>StableCoin._beforeTokenTransfer</title>
+<ellipse ry="18" rx="97.7958" cy="-1945" cx="184.478" stroke="#ffffff" fill="none"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-1940.8" x="184.478" text-anchor="middle">_beforeTokenTransfer</text>
+</g>
+
+<g class="node" id="node109">
+<title>key</title>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4598.4" x="169.114" text-anchor="start">Internal Call</text>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4578.4" x="165.222" text-anchor="start">External Call</text>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4558.4" x="136.0488" text-anchor="start">Custom Error Call</text>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4538.4" x="142.6834" text-anchor="start">Defined Contract</text>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4518.4" x="129.0807" text-anchor="start">Undefined Contract</text>
+</g>
+
+<g class="node" id="node110">
+<title>key2</title>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4598.4" x="508.6879" text-anchor="start">   </text>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4578.4" x="508.6879" text-anchor="start">   </text>
+<polygon points="506.9288,-4553 506.9288,-4573 534.9288,-4573 534.9288,-4553 506.9288,-4553" stroke="transparent" fill="#d3d3d3"/>
+<text fill="#000000" font-size="14.00" font-family="Times,serif" y="-4558.4" x="508.6879" text-anchor="start">   </text>
+<polygon points="508.9288,-4535 508.9288,-4551 532.9288,-4551 532.9288,-4535 508.9288,-4535" stroke="#d3d3d3" fill="none"/>
+</g>
+
+<g class="edge" id="edge135">
+<title>key:e-&gt;key2:w</title>
+<path d="M241.478,-4603C355.9997,-4603 387.1465,-4603 496.783,-4603" stroke="#00ff00" fill="none"/>
+<polygon points="496.9289,-4606.5001 506.9288,-4603 496.9288,-4599.5001 496.9289,-4606.5001" stroke="#00ff00" fill="#00ff00"/>
+</g>
+
+<g class="edge" id="edge136">
+<title>key:e-&gt;key2:w</title>
+<path d="M241.478,-4583C355.9997,-4574.2637 387.1465,-4574.0077 496.783,-4582.2322" stroke="#ffa500" fill="none"/>
+<polygon points="496.6932,-4585.7353 506.9288,-4583 497.2215,-4578.7552 496.6932,-4585.7353" stroke="#ffa500" fill="#ffa500"/>
+</g>
+
+<g class="edge" id="edge137">
+<title>key:e-&gt;key2:w</title>
+<path d="M241.478,-4583C355.9997,-4591.7363 387.1465,-4591.9923 496.783,-4583.7678" stroke="#ff0000" fill="none"/>
+<polygon points="497.2215,-4587.2448 506.9288,-4583 496.6932,-4580.2647 497.2215,-4587.2448" stroke="#ff0000" fill="#ff0000"/>
+</g>
+</g>
+</svg>
