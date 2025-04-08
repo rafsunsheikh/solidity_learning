@@ -44,6 +44,20 @@ I'll document my Solidity Learning journey in this repo!!
 ### Web3 Package
 
 
+### Unsorted Learning Materials
+- https://github.com/AtharvSan/Essential-Solidity
+- https://github.com/patrickd-/cheatsheet.sol
+- https://www.youtube.com/watch?v=umepbfKp5rI
+- https://docs.oasis.io/
+- https://www.youtube.com/watch?v=gD-_cgV3Nz4
+- https://www.youtube.com/watch?v=XBT1_WFV5tU
+- https://www.youtube.com/watch?v=lpsFR_YrHgY
+- https://www.youtube.com/watch?v=LDLz06X_KNY
+- https://www.openzeppelin.com/solidity-contracts
+- https://ethereum.org/en/developers/docs/smart-contracts/
+- https://eips.ethereum.org/erc
+
+
 
 
 
